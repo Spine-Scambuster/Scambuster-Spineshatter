@@ -1530,7 +1530,7 @@ t.case_table = {
 [191] = {
     name = "Beybmage",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02B773C2",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1352385065899786362",
 },
@@ -1538,7 +1538,7 @@ t.case_table = {
 [192] = {
     name = "Miniganja",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02B75251",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1352385065899786362",
 },
@@ -1546,7 +1546,7 @@ t.case_table = {
 [193] = {
     name = "Axstroprs",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02B3BC74",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1352447666495160522",
 },
@@ -1554,7 +1554,7 @@ t.case_table = {
 [194] = {
     name = "Matinmj",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02B96FAC",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1352447666495160522",
 },
@@ -1602,7 +1602,7 @@ t.case_table = {
 [200] = {
     name = "Magicmushrom",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02B11BB5",
     description = "Ninja",
     url = "https://discord.com/channels/1306327491769798708/1353086731246637118",
 },
@@ -1626,7 +1626,7 @@ t.case_table = {
 [203] = {
     name = "Saadkw",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02A94F65",
     description = "Ninja",
     url = "https://discord.com/channels/1306327491769798708/1353561201467986022",
 },
@@ -1634,7 +1634,7 @@ t.case_table = {
 [204] = {
     name = "Hayabus",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02B9F1E5",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1353550876622721135",
 },
@@ -1674,7 +1674,7 @@ t.case_table = {
 [209] = {
     name = "Jenkemuser",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-0293D6E0",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1353822150783533146",
 },
@@ -1682,7 +1682,7 @@ t.case_table = {
 [210] = {
     name = "Nistitaikuri",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-029545AC",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1353822150783533146",
 },
@@ -1698,7 +1698,7 @@ t.case_table = {
 [212] = {
     name = "Fartgirlx",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02C9D273",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1353912142872580117",
 },
@@ -1706,7 +1706,7 @@ t.case_table = {
 [213] = {
     name = "Fiskböna",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02950376",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1353912142872580117",
 },
@@ -1714,7 +1714,7 @@ t.case_table = {
 [214] = {
     name = "Flokì",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-0297FED9",
     description = "Ninja",
     url = "https://discord.com/channels/1306327491769798708/1354042032401678398",
 },
@@ -1738,7 +1738,7 @@ t.case_table = {
 [217] = {
     name = "Bould",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-028C4CE6",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1355049683223052319",
 },
@@ -1746,7 +1746,7 @@ t.case_table = {
 [218] = {
     name = "Jèsper",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02BC6E5A",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1355049683223052319",
 },
@@ -1754,7 +1754,7 @@ t.case_table = {
 [219] = {
     name = "Sapnrun",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-028B795B",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1355240965266342048",
 },
@@ -1762,7 +1762,7 @@ t.case_table = {
 [220] = {
     name = "Cathandria",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02CA374F",
     description = "Ninja",
     url = "https://discord.com/channels/1306327491769798708/1355675582385356860",
 },
@@ -1802,7 +1802,7 @@ t.case_table = {
 [225] = {
     name = "Sparkmaster",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-028CE568",
     description = "Ninja",
     url = "https://discord.com/channels/1306327491769798708/1356000019223679197",
 },
@@ -1818,7 +1818,7 @@ t.case_table = {
 [227] = {
     name = "Tactic",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-0290B03E",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1357047106073788416",
 },
@@ -1826,7 +1826,7 @@ t.case_table = {
 [228] = {
     name = "Soton",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02A7E382",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1357047106073788416",
 },
@@ -1834,7 +1834,7 @@ t.case_table = {
 [229] = {
     name = "Azzedine",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02C9EAED",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1357073449842905238",
 },
@@ -1866,7 +1866,7 @@ t.case_table = {
 [233] = {
     name = "Kenrith",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02B84262",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1357087605652455715",
 },
@@ -1954,7 +1954,7 @@ t.case_table = {
 [244] = {
     name = "Kaijsen",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02B65F1B",
     description = "Griefing",
     url = "https://discord.com/channels/1306327491769798708/1359205934899138701",
 },
@@ -1978,7 +1978,7 @@ t.case_table = {
 [247] = {
     name = "Kavoy",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02BCF71F",
     description = "Ninja",
     url = "https://discord.com/channels/1306327491769798708/1359505798639910912",
 },
@@ -1986,7 +1986,7 @@ t.case_table = {
 [248] = {
     name = "Soes",
     faction = "Alliance",
-    guid = "nan",
+    guid = "Player-6112-02BA1D5C",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1359587926975058094",
 },
