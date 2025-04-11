@@ -1,0 +1,35 @@
+USAGE LICENSE  
+Spineshatter EU PvP Extension Addon
+
+1. **Overview**  
+This agreement applies to the software tool known as the "Spineshatter EU PvP Extension Addon" (hereinafter referred to as "the Addon"). It is an extension of the **[Scambuster framework](https://github.com/hypernormalisation/Scambuster)** and compiles a list of offenders using publicly available data from the **[Spineshatter EU PvP Discord](https://discord.gg/spineshatter)**.
+
+2. **Disclaimer**  
+The Addon is provided “as is,” with no express or implied warranties regarding functionality or performance. It uses public data from the Spineshatter EU PvP Discord. The developers do not verify this data and make no claims about its accuracy or reliability. Use is at your own risk.
+
+3. **No Affiliation**  
+The Addon is not affiliated with or endorsed by the Spineshatter EU PvP Discord or its moderators. All data is public and not controlled or verified by the developers.
+
+4. **Warranty**  
+The Addon is provided without warranties of any kind. No guarantees are made regarding accuracy, compatibility, or uptime. The developers disclaim all warranties, including implied warranties of merchantability and fitness for a particular purpose.
+
+5. **Limitation of Liability**  
+To the fullest extent permitted by law, the developers are not liable for any damages arising from use or inability to use the Addon, including but not limited to data loss, downtime, or reliance on inaccurate data, even if advised of potential issues.
+
+6. **Indemnity**  
+You agree to indemnify and hold harmless the developers and associated parties from any claims, liabilities, or damages (including legal fees) resulting from your use or misuse of the Addon, violation of this license, or infringement of third-party rights.
+
+7. **Data Accuracy**  
+Data compiled by the Addon may be outdated, incorrect, or misleading. The developers do not guarantee accuracy, completeness, or timeliness. Users should independently verify information before relying on it.
+
+8. **Jurisdiction**  
+This Agreement is governed by the laws of the European Union. Any disputes shall fall under the exclusive jurisdiction of EU courts.
+
+9. **License Compliance**  
+The Addon extends the **Scambuster framework**, which is licensed under the **[GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html)**. By using the Addon, you agree to comply with both this license and the original Scambuster license. You may use, modify, and distribute the Addon under the same terms.
+
+10. **Termination**  
+The developers may discontinue support, updates, or public availability of the Addon at any time. However, in accordance with the GPL-3.0 license, your rights to use, modify, and distribute the Addon remain in effect unless you violate the terms of that license. Upon violation, your rights under this agreement and the GPL-3.0 license may be terminated.
+
+11. **Agreement**  
+By downloading, installing, or using the Addon, you confirm that you have read, understood, and agreed to the terms of this license. If you do not agree, you are not permitted to use, modify, or distribute the Addon.

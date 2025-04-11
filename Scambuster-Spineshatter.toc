@@ -1,0 +1,13 @@
+## Interface: 113506
+## Title: Scambuster-Spineshatter
+## Notes: Extension for Scambuster packaging Spineshatter EU PvP Discord realm data.
+## Author: Spine-Scambuster
+## Version: 1.0.0
+## DefaultState: enabled
+## Dependencies: Scambuster
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua
+WarningUnknownLinkType.lua
