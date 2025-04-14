@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 252
+-- unique characters: 253
 
-t.version = "1.0.4"
+t.version = "1.0.5"
 
 t.case_table = {
 [1] = {
@@ -2021,6 +2021,14 @@ t.case_table = {
     guid = "Player-6112-029D99E5",
     description = "Ninja",
     url = "https://discord.com/channels/1306327491769798708/1360621526960963625",
+},
+
+[257] = {
+    name = "Gráce",
+    faction = "Alliance",
+    guid = "Player-6112-028A3268",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1360774795356147828",
 },
 }
 
