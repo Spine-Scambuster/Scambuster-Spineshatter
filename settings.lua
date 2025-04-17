@@ -22,4 +22,4 @@ t.my_description = "The data used is curated by the Spineshatter Discord communi
 
 -- Set this variable to be a url to your discord or website where people
 -- can come and find you.
-t.my_url = "https://discord.gg/f8EPMMdyxj"
+t.my_url = "https://discord.gg/82FMGTWG9j"
