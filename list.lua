@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 263
+-- unique characters: 272
 
-t.version = "1.0.9"
+t.version = "1.0.10"
 
 t.case_table = {
 [1] = {
@@ -1283,7 +1283,7 @@ t.case_table = {
     name = "Vhafrost",
     faction = "Horde",
     guid = "Player-6112-029EB156",
-    description = "Scam",
+    description = "Scam, Ninja",
     url = "https://discord.com/channels/1306327491769798708/1345401976883515444",
 },
 
@@ -2109,6 +2109,78 @@ t.case_table = {
     guid = "Player-6112-02A97855",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1363327683857219755",
+},
+
+[268] = {
+    name = "Papamage",
+    faction = "Horde",
+    guid = "Player-6112-028B17B2",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1363627865740152832",
+},
+
+[269] = {
+    name = "Qqbangbaang",
+    faction = "Horde",
+    guid = "Player-6112-028D1BF1",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1363820372646035621",
+},
+
+[270] = {
+    name = "Qqbangbbang",
+    faction = "Horde",
+    guid = "Player-6112-028E530C",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1363820372646035621",
+},
+
+[271] = {
+    name = "Pyrovatis",
+    faction = "Alliance",
+    guid = "Player-6112-029B78D1",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1363949768836911114",
+},
+
+[272] = {
+    name = "Xeonv",
+    faction = "Alliance",
+    guid = "Player-6112-029E7DED",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1364136391143063613",
+},
+
+[273] = {
+    name = "Caffeìne",
+    faction = "Alliance",
+    guid = "Player-6112-02B5A864",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1364136391143063613",
+},
+
+[274] = {
+    name = "Saurfuk",
+    faction = "Horde",
+    guid = "Player-6112-02AAACC6",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1364237056200544327",
+},
+
+[275] = {
+    name = "Jayzn",
+    faction = "Horde",
+    guid = "Player-6112-029C5B07",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1364237056200544327",
+},
+
+[276] = {
+    name = "Khazathor",
+    faction = "Horde",
+    guid = "Player-6112-0296884C",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1364365526666707025",
 },
 }
 
