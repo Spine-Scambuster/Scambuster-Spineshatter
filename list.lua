@@ -2,7 +2,7 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 272
+-- unique characters: 276
 
 t.version = "1.0.10"
 
@@ -1555,7 +1555,7 @@ t.case_table = {
     name = "Motala",
     faction = "Horde",
     guid = "Player-6112-02C6B10E",
-    description = "Scam",
+    description = "Scam, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1352803380694876240",
 },
 
@@ -1723,7 +1723,7 @@ t.case_table = {
     name = "Sapnrun",
     faction = "Alliance",
     guid = "Player-6112-028B795B",
-    description = "Scam",
+    description = "Scam, Harassment",
     url = "https://discord.com/channels/1306327491769798708/1355240965266342048",
 },
 
@@ -2181,6 +2181,38 @@ t.case_table = {
     guid = "Player-6112-0296884C",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1364365526666707025",
+},
+
+[277] = {
+    name = "Gosted",
+    faction = "Horde",
+    guid = "Player-6112-02CF7D8C",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1365098263472242788",
+},
+
+[278] = {
+    name = "Addnye",
+    faction = "Alliance",
+    guid = "Player-6112-02B1B570",
+    description = "Other, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1364650231316222032",
+},
+
+[279] = {
+    name = "Kouzelnice",
+    faction = "Alliance",
+    guid = "Player-6112-0294E79D",
+    description = "Other, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1364650231316222032",
+},
+
+[280] = {
+    name = "Xalrixs",
+    faction = "Alliance",
+    guid = "Player-6112-02A81002",
+    description = "Other, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1364650231316222032",
 },
 }
 
