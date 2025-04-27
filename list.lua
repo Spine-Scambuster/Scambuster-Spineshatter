@@ -4,7 +4,7 @@ local _, t = ...
 
 -- unique characters: 280
 
-t.version = "1.0.10"
+t.version = "1.0.11"
 
 t.case_table = {
 [1] = {
