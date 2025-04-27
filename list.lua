@@ -2,7 +2,7 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 276
+-- unique characters: 280
 
 t.version = "1.0.10"
 
@@ -2213,6 +2213,38 @@ t.case_table = {
     guid = "Player-6112-02A81002",
     description = "Other, Harassment",
     url = "https://discord.com/channels/1306327491769798708/1364650231316222032",
+},
+
+[281] = {
+    name = "Kouks",
+    faction = "Alliance",
+    guid = "Player-6112-02999062",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1365365546828304497",
+},
+
+[282] = {
+    name = "Megagnome",
+    faction = "Alliance",
+    guid = "Player-6112-02A6C3CB",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1365639248870510642",
+},
+
+[283] = {
+    name = "Miufurinji",
+    faction = "Alliance",
+    guid = "Player-6112-02A9AC90",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1365639248870510642",
+},
+
+[284] = {
+    name = "Multiglad",
+    faction = "Horde",
+    guid = "Player-6112-029F4208",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1365801528480366703",
 },
 }
 
