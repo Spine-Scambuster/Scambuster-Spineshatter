@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 280
+-- unique characters: 286
 
-t.version = "1.0.11"
+t.version = "1.0.12"
 
 t.case_table = {
 [1] = {
@@ -2245,6 +2245,54 @@ t.case_table = {
     guid = "Player-6112-029F4208",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1365801528480366703",
+},
+
+[285] = {
+    name = "Joliana",
+    faction = "Horde",
+    guid = "Player-6112-02A51168",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1365988442747703317",
+},
+
+[286] = {
+    name = "Voxov",
+    faction = "Horde",
+    guid = "Player-6112-0293930D",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1365988442747703317",
+},
+
+[287] = {
+    name = "Darhanis",
+    faction = "Horde",
+    guid = "Player-6112-02D0E036",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1365948983952019557",
+},
+
+[288] = {
+    name = "Mogholi",
+    faction = "Alliance",
+    guid = "Player-6112-02B15AD7",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1366039213853642792",
+},
+
+[289] = {
+    name = "Phantomgz",
+    faction = "Alliance",
+    guid = "Player-6112-02C99C88",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1366039213853642792",
+},
+
+[290] = {
+    name = "Zadnik",
+    faction = "Horde",
+    guid = "Player-6112-029A9660",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1366075326823661578",
 },
 }
 
