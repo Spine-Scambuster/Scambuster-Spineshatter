@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 325
+-- unique characters: 328
 
-t.version = "1.0.14"
+t.version = "1.0.15"
 
 t.case_table = {
 [1] = {
@@ -1035,7 +1035,7 @@ t.case_table = {
     name = "Rhythmicbob",
     faction = "Horde",
     guid = "Player-6112-0288F53F",
-    description = "Scam",
+    description = "Scam, Repeat Offender, Ninja",
     url = "https://discord.com/channels/1306327491769798708/1335635738485592094",
 },
 
@@ -2440,14 +2440,6 @@ t.case_table = {
 },
 
 [310] = {
-    name = "Kekunfair",
-    faction = "Horde",
-    guid = "Player-6112-0296CEEC",
-    description = "Scam",
-    url = "https://discord.com/channels/1306327491769798708/1368562121842884748",
-},
-
-[311] = {
     name = "Walterr",
     faction = "Horde",
     guid = "Player-6112-02AD7856",
@@ -2455,7 +2447,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368909212280815696",
 },
 
-[312] = {
+[311] = {
     name = "Rew",
     faction = "Horde",
     guid = "Player-6112-029C8B43",
@@ -2463,7 +2455,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[313] = {
+[312] = {
     name = "Rewidè",
     faction = "Horde",
     guid = "Player-6112-0295DCF9",
@@ -2471,7 +2463,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[314] = {
+[313] = {
     name = "Rewidé",
     faction = "Horde",
     guid = "Player-6112-0293604B",
@@ -2479,7 +2471,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[315] = {
+[314] = {
     name = "Rewide",
     faction = "Horde",
     guid = "Player-6112-029C8ACF",
@@ -2487,7 +2479,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[316] = {
+[315] = {
     name = "Rewidê",
     faction = "Horde",
     guid = "Player-6112-02B686C6",
@@ -2495,7 +2487,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[317] = {
+[316] = {
     name = "Aerospark",
     faction = "Horde",
     guid = "Player-6112-029614BD",
@@ -2503,7 +2495,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[318] = {
+[317] = {
     name = "Frankblack",
     faction = "Horde",
     guid = "Player-6112-029D0C28",
@@ -2511,7 +2503,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[319] = {
+[318] = {
     name = "Thiccdad",
     faction = "Horde",
     guid = "Player-6112-02C569FE",
@@ -2519,7 +2511,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[320] = {
+[319] = {
     name = "Shadydad",
     faction = "Horde",
     guid = "Player-6112-02D4BF8E",
@@ -2527,7 +2519,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[321] = {
+[320] = {
     name = "Soduko",
     faction = "Horde",
     guid = "Player-6112-02B687A0",
@@ -2535,7 +2527,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[322] = {
+[321] = {
     name = "Megabytes",
     faction = "Horde",
     guid = "Player-6112-02B9980B",
@@ -2543,7 +2535,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368976323665596599",
 },
 
-[323] = {
+[322] = {
     name = "Oomvibes",
     faction = "Horde",
     guid = "Player-6112-02C9D06C",
@@ -2551,7 +2543,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368976323665596599",
 },
 
-[324] = {
+[323] = {
     name = "icéwtf",
     faction = "Horde",
     guid = "Player-6112-02B50355",
@@ -2559,7 +2551,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368976323665596599",
 },
 
-[325] = {
+[324] = {
     name = "Sixvibes",
     faction = "Horde",
     guid = "Player-6112-02A33505",
@@ -2567,7 +2559,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368976323665596599",
 },
 
-[326] = {
+[325] = {
     name = "Vibemaster",
     faction = "Horde",
     guid = "Player-6112-029551F7",
@@ -2575,7 +2567,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368976323665596599",
 },
 
-[327] = {
+[326] = {
     name = "Stortrold",
     faction = "Horde",
     guid = "Player-6112-02CE532A",
@@ -2583,7 +2575,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[328] = {
+[327] = {
     name = "Tronie",
     faction = "Horde",
     guid = "Player-6112-02B9FA13",
@@ -2591,7 +2583,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[329] = {
+[328] = {
     name = "Troni",
     faction = "Horde",
     guid = "Player-6112-028AA2A0",
@@ -2599,12 +2591,44 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1368681162113024121",
 },
 
-[330] = {
+[329] = {
     name = "Sweetmalinka",
     faction = "Horde",
     guid = "Player-6112-028C356B",
     description = "Ninja, Scam",
     url = "https://discord.com/channels/1306327491769798708/1369007704609394769",
+},
+
+[330] = {
+    name = "Kayfufu",
+    faction = "Horde",
+    guid = "Player-6112-02D18845",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1367648733411545129",
+},
+
+[331] = {
+    name = "Omerbay",
+    faction = "Horde",
+    guid = "Player-6112-02C64304",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1369247542923235368",
+},
+
+[332] = {
+    name = "Stalos",
+    faction = "Alliance",
+    guid = "Player-6112-02B6E224",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1369126176869584998",
+},
+
+[333] = {
+    name = "Smboosterr",
+    faction = "Alliance",
+    guid = "Player-6112-02B22838",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1369126176869584998",
 },
 }
 
