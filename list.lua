@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 378
+-- unique characters: 391
 
-t.version = "1.0.21"
+t.version = "1.0.22"
 
 t.case_table = {
 [1] = {
@@ -2896,14 +2896,6 @@ t.case_table = {
 },
 
 [367] = {
-    name = "Paradóx",
-    faction = "Alliance",
-    guid = "Player-6112-0293FFE2",
-    description = "Scam, Harassment",
-    url = "https://discord.com/channels/1306327491769798708/1373295939787292756",
-},
-
-[368] = {
     name = "Tatarça",
     faction = "Alliance",
     guid = "Player-6112-02BC0CC7",
@@ -2911,7 +2903,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373295939787292756",
 },
 
-[369] = {
+[368] = {
     name = "Judderin",
     faction = "Horde",
     guid = "Player-6112-02A83E26",
@@ -2919,7 +2911,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373331825677701151",
 },
 
-[370] = {
+[369] = {
     name = "Shaddowsm",
     faction = "Horde",
     guid = "Player-6112-02AAEB35",
@@ -2927,7 +2919,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373331825677701151",
 },
 
-[371] = {
+[370] = {
     name = "Gardha",
     faction = "Horde",
     guid = "Player-6112-02986618",
@@ -2935,7 +2927,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373345625827049653",
 },
 
-[372] = {
+[371] = {
     name = "Zloster",
     faction = "Horde",
     guid = "Player-6112-02A75C40",
@@ -2943,7 +2935,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373397848854626414",
 },
 
-[373] = {
+[372] = {
     name = "Khronix",
     faction = "Horde",
     guid = "Player-6112-02C737E0",
@@ -2951,7 +2943,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373408633307795557",
 },
 
-[374] = {
+[373] = {
     name = "Namelessfool",
     faction = "Horde",
     guid = "Player-6112-02944858",
@@ -2959,7 +2951,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373408633307795557",
 },
 
-[375] = {
+[374] = {
     name = "Happystomp",
     faction = "Horde",
     guid = "Player-6112-02A5FB91",
@@ -2967,7 +2959,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373408633307795557",
 },
 
-[376] = {
+[375] = {
     name = "Bryxx",
     faction = "Horde",
     guid = "Player-6112-028F10AE",
@@ -2975,7 +2967,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373408633307795557",
 },
 
-[377] = {
+[376] = {
     name = "Darodur",
     faction = "Horde",
     guid = "Player-6112-028ADBF5",
@@ -2983,7 +2975,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373408633307795557",
 },
 
-[378] = {
+[377] = {
     name = "Druuhna",
     faction = "Horde",
     guid = "Player-6112-02CB856A",
@@ -2991,7 +2983,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373408633307795557",
 },
 
-[379] = {
+[378] = {
     name = "Flumpstick",
     faction = "Horde",
     guid = "Player-6112-028A42E5",
@@ -2999,7 +2991,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373408633307795557",
 },
 
-[380] = {
+[379] = {
     name = "Zerocrit",
     faction = "Horde",
     guid = "Player-6112-02AC5EF0",
@@ -3007,7 +2999,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373408633307795557",
 },
 
-[381] = {
+[380] = {
     name = "Hydewell",
     faction = "Horde",
     guid = "Player-6112-028AE4F6",
@@ -3015,7 +3007,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373408633307795557",
 },
 
-[382] = {
+[381] = {
     name = "Níemand",
     faction = "Horde",
     guid = "Player-6112-028D1B55",
@@ -3023,12 +3015,124 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1373389177344889023",
 },
 
-[383] = {
+[382] = {
     name = "Ironso",
     faction = "Alliance",
     guid = "Player-6112-02A1D4C1",
     description = "Ninja, Scam",
     url = "https://discord.com/channels/1306327491769798708/1374043636991524966",
+},
+
+[383] = {
+    name = "Gudaria",
+    faction = "Horde",
+    guid = "Player-6112-02B96E92",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1374366027235725413",
+},
+
+[384] = {
+    name = "Kukuxa",
+    faction = "Alliance",
+    guid = "Player-6112-028B786D",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1374398963385499810",
+},
+
+[385] = {
+    name = "Jakal",
+    faction = "Alliance",
+    guid = "Player-6112-028B786D",
+    description = "Scam, Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[386] = {
+    name = "Expriment",
+    faction = "Horde",
+    guid = "Player-6112-02A829BE",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1374407513797034116",
+},
+
+[387] = {
+    name = "Öbispo",
+    faction = "Horde",
+    guid = "Player-6112-02B437B1",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1374407513797034116",
+},
+
+[388] = {
+    name = "Kuramer",
+    faction = "Alliance",
+    guid = "Player-6112-028E72D0",
+    description = "Harassment, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1374693646141755412",
+},
+
+[389] = {
+    name = "Andeven",
+    faction = "Alliance",
+    guid = "Player-6112-028E6543",
+    description = "Harassment, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1374693646141755412",
+},
+
+[390] = {
+    name = "Phara",
+    faction = "Alliance",
+    guid = "Player-6112-029A0F36",
+    description = "Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1374678548945698856",
+},
+
+[391] = {
+    name = "Stunaa",
+    faction = "Horde",
+    guid = "Player-6112-02D11925",
+    description = "Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1374552056794189894",
+},
+
+[392] = {
+    name = "Doussgold",
+    faction = "Horde",
+    guid = "Player-6112-02AD5686",
+    description = "Harassment, Other",
+    url = "https://discord.com/channels/1306327491769798708/1374763382665642147",
+},
+
+[393] = {
+    name = "Yaléhendek",
+    faction = "Horde",
+    guid = "Player-6112-02B9A8D8",
+    description = "Harassment, Other",
+    url = "https://discord.com/channels/1306327491769798708/1374763382665642147",
+},
+
+[394] = {
+    name = "Camïllaxø",
+    faction = "Horde",
+    guid = "Player-6112-02B5A107",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1375150517944057967",
+},
+
+[395] = {
+    name = "Hulfdan",
+    faction = "Alliance",
+    guid = "Player-6112-02894F12",
+    description = "Ninja, Other",
+    url = "https://discord.com/channels/1306327491769798708/1374840777137717359",
+},
+
+[396] = {
+    name = "Koraw",
+    faction = "Horde",
+    guid = "Player-6112-02A333A4",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1375220820959297637",
 },
 }
 
