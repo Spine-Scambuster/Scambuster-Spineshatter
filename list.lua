@@ -4,7 +4,7 @@ local _, t = ...
 
 -- unique characters: 543
 
-t.version = "1.0.31"
+t.version = "1.0.32"
 
 t.case_table = {
 [1] = {
@@ -3946,7 +3946,7 @@ t.case_table = {
 [498] = {
     name = "Warlockoo",
     faction = "Alliance",
-    guid = "Player-6112-029FDAC2",
+    guid = "Player-6112-02BAED0B",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1392169204043485235",
 },
@@ -4208,7 +4208,7 @@ t.case_table = {
 },
 
 [531] = {
-    name = "Acktes",
+    name = "Acktez",
     faction = "Horde",
     guid = "Player-6112-02C9274B",
     description = "Ninja, Scam",
@@ -4216,7 +4216,7 @@ t.case_table = {
 },
 
 [532] = {
-    name = "Acktez",
+    name = "Acktes",
     faction = "Horde",
     guid = "Player-6112-02C08C53",
     description = "Ninja, Scam",
