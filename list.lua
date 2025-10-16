@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 665
+-- unique characters: 671
 
-t.version = "1.0.48"
+t.version = "1.0.49"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -5324,6 +5324,54 @@ t.case_table = {
     guid = "Player-6112-02FBE60E",
     description = "Ninja, Scam, Griefing",
     url = "https://discord.com/channels/1306327491769798708/1426744224447074384",
+},
+
+[671] = {
+    name = "Holandshz",
+    faction = "Alliance",
+    guid = "Player-6112-02D1D306",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1418218473913450650",
+},
+
+[672] = {
+    name = "Nillashz",
+    faction = "Alliance",
+    guid = "Player-6112-02C5BD5D",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1418218473913450650",
+},
+
+[673] = {
+    name = "Gærp",
+    faction = "Alliance",
+    guid = "Player-6112-02BA87EE",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1427580634657722499",
+},
+
+[674] = {
+    name = "Sowgoli",
+    faction = "Alliance",
+    guid = "Player-6112-02B15B3B",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1427580634657722499",
+},
+
+[675] = {
+    name = "Kapioq",
+    faction = "Alliance",
+    guid = "Player-6112-02C0DA14",
+    description = "Ninja, Griefing, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1428384957923065856",
+},
+
+[676] = {
+    name = "Liotbc",
+    faction = "Horde",
+    guid = "Player-6112-0313D104",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1428441594826330133",
 },
 }
 
