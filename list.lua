@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 671
+-- unique characters: 677
 
-t.version = "1.0.49"
+t.version = "1.0.50"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -5372,6 +5372,54 @@ t.case_table = {
     guid = "Player-6112-0313D104",
     description = "Ninja, Scam",
     url = "https://discord.com/channels/1306327491769798708/1428441594826330133",
+},
+
+[677] = {
+    name = "Nooßslayer",
+    faction = "Horde",
+    guid = "Player-6112-02E57605",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1428465010723524679",
+},
+
+[678] = {
+    name = "Anstürma",
+    faction = "Horde",
+    guid = "Player-6112-0295F3A3",
+    description = "Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1429499393488326736",
+},
+
+[679] = {
+    name = "Mollderey",
+    faction = "Horde",
+    guid = "Player-6112-02F6EC7E",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1427967173682532382",
+},
+
+[680] = {
+    name = "Maoku",
+    faction = "Alliance",
+    guid = "Player-6112-02D85EED",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1429500763939278910",
+},
+
+[681] = {
+    name = "Daryano",
+    faction = "Alliance",
+    guid = "Player-6112-02FA91EE",
+    description = "Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1429382925719310396",
+},
+
+[682] = {
+    name = "Vinaz",
+    faction = "Alliance",
+    guid = "Player-6112-029D710D",
+    description = "Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1429382925719310396",
 },
 }
 
