@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 699
+-- unique characters: 707
 
-t.version = "1.0.53"
+t.version = "1.0.54"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -5551,14 +5551,6 @@ t.case_table = {
 },
 
 [699] = {
-    name = "Omgitsabacon",
-    faction = "Horde",
-    guid = "Player-6112-02FF86D3",
-    description = "Ninja, Scam, SR Tampering",
-    url = "https://discord.com/channels/1306327491769798708/1432030132486406154",
-},
-
-[700] = {
     name = "Zenbon",
     faction = "Horde",
     guid = "Player-6112-02A9AC7B",
@@ -5566,7 +5558,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1432053327218212874",
 },
 
-[701] = {
+[700] = {
     name = "Zaebon",
     faction = "Horde",
     guid = "Player-6112-0294A619",
@@ -5574,7 +5566,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1432053327218212874",
 },
 
-[702] = {
+[701] = {
     name = "Diol",
     faction = "Alliance",
     guid = "Player-6112-02AAE6E7",
@@ -5582,7 +5574,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1433076190444519454",
 },
 
-[703] = {
+[702] = {
     name = "Unendingfire",
     faction = "Alliance",
     guid = "Player-6112-029BE579",
@@ -5590,12 +5582,84 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1433210474681471097",
 },
 
-[704] = {
+[703] = {
     name = "Gixxer",
     faction = "Alliance",
     guid = "Player-6112-0289644A",
     description = "Harassment",
     url = "https://discord.com/channels/1306327491769798708/1433139063430320280",
+},
+
+[704] = {
+    name = "Cevere",
+    faction = "Horde",
+    guid = "Player-6112-02B06B73",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1433428944308277248",
+},
+
+[705] = {
+    name = "Tsig",
+    faction = "Alliance",
+    guid = "Player-6112-02A42947",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1432820227191734425",
+},
+
+[706] = {
+    name = "Zammorak",
+    faction = "Alliance",
+    guid = "Player-6112-028D504F",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1433514502564872234",
+},
+
+[707] = {
+    name = "Goingforglad",
+    faction = "Alliance",
+    guid = "Player-6112-02B831DD",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1433514502564872234",
+},
+
+[708] = {
+    name = "Ganeshaa",
+    faction = "Horde",
+    guid = "Player-6112-02C7BD7D",
+    description = "Harassment, Other",
+    url = "https://discord.com/channels/1306327491769798708/1433561621246246983",
+},
+
+[709] = {
+    name = "Zord",
+    faction = "Horde",
+    guid = "Player-6112-0290052B",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1431979087454408928",
+},
+
+[710] = {
+    name = "Smsuperbank",
+    faction = "Alliance",
+    guid = "Player-6112-0312A35F",
+    description = "Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1434634497382416490",
+},
+
+[711] = {
+    name = "Pepsimaxx",
+    faction = "Alliance",
+    guid = "Player-6112-02CCE6C5",
+    description = "Griefing, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1434963077224202400",
+},
+
+[712] = {
+    name = "Greatfather",
+    faction = "Horde",
+    guid = "Player-6112-03110F67",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1435354831442284627",
 },
 }
 
