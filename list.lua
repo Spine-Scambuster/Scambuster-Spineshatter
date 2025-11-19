@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 722
+-- unique characters: 727
 
-t.version = "1.0.55"
+t.version = "1.0.56"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -5780,6 +5780,46 @@ t.case_table = {
     guid = "Player-6112-02F5E171",
     description = "Ninja",
     url = "https://discord.com/channels/1306327491769798708/1438284815089537157",
+},
+
+[728] = {
+    name = "Frapadingue",
+    faction = "Horde",
+    guid = "Player-6112-02B8ADED",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1438592377043423342",
+},
+
+[729] = {
+    name = "Bestboostman",
+    faction = "Alliance",
+    guid = "Player-6112-0319EE8D",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1438485972659605585",
+},
+
+[730] = {
+    name = "Icymatters",
+    faction = "Alliance",
+    guid = "Player-6112-02F859C3",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1438474027315368007",
+},
+
+[731] = {
+    name = "Nicollas",
+    faction = "Alliance",
+    guid = "Player-6112-02A9C77A",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1439391020398805052",
+},
+
+[732] = {
+    name = "Insanitys",
+    faction = "Alliance",
+    guid = "Player-6112-03063163",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1439406673436606515",
 },
 }
 
