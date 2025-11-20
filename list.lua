@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 727
+-- unique characters: 793
 
-t.version = "1.0.56"
+t.version = "1.0.57"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -5783,14 +5783,6 @@ t.case_table = {
 },
 
 [728] = {
-    name = "Frapadingue",
-    faction = "Horde",
-    guid = "Player-6112-02B8ADED",
-    description = "Ninja, Scam",
-    url = "https://discord.com/channels/1306327491769798708/1438592377043423342",
-},
-
-[729] = {
     name = "Bestboostman",
     faction = "Alliance",
     guid = "Player-6112-0319EE8D",
@@ -5798,7 +5790,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1438485972659605585",
 },
 
-[730] = {
+[729] = {
     name = "Icymatters",
     faction = "Alliance",
     guid = "Player-6112-02F859C3",
@@ -5806,7 +5798,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1438474027315368007",
 },
 
-[731] = {
+[730] = {
     name = "Nicollas",
     faction = "Alliance",
     guid = "Player-6112-02A9C77A",
@@ -5814,12 +5806,548 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1439391020398805052",
 },
 
-[732] = {
+[731] = {
     name = "Insanitys",
     faction = "Alliance",
     guid = "Player-6112-03063163",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1439406673436606515",
+},
+
+[732] = {
+    name = "Inyoxoxo",
+    faction = "Alliance",
+    guid = "Player-6112-03183776",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1438877042363076690",
+},
+
+[733] = {
+    name = "Xezar",
+    faction = "Horde",
+    guid = "Player-6112-02E11C25",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1437413536505790728",
+},
+
+[734] = {
+    name = "Aucika",
+    faction = "Horde",
+    guid = "Player-6112-031A2299",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1437413536505790728",
+},
+
+[735] = {
+    name = "Bezkoz",
+    faction = "Horde",
+    guid = "Player-6112-031A6475",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1437413536505790728",
+},
+
+[736] = {
+    name = "Canzur",
+    faction = "Horde",
+    guid = "Player-6112-031A9A39",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1437413536505790728",
+},
+
+[737] = {
+    name = "Krillexd",
+    faction = "Alliance",
+    guid = "Player-6112-0313C63D",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1439969848238149814",
+},
+
+[738] = {
+    name = "Larsman",
+    faction = "Alliance",
+    guid = "Player-6112-0318DA7C",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1439969848238149814",
+},
+
+[739] = {
+    name = "Mayb",
+    faction = "Horde",
+    guid = "Player-6112-02B8B956",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1440104280899190824",
+},
+
+[740] = {
+    name = "Shanibani",
+    faction = "Alliance",
+    guid = "Player-6112-029E4BFD",
+    description = "Scam, Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1438895027140169870",
+},
+
+[741] = {
+    name = "Offlin",
+    faction = "Alliance",
+    guid = "Player-6112-0314ACB9",
+    description = "Scam, Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1438895027140169870",
+},
+
+[742] = {
+    name = "Häijy",
+    faction = "Horde",
+    guid = "Player-6112-028F53E1",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[743] = {
+    name = "Hulukki",
+    faction = "Horde",
+    guid = "Player-6112-028A2D98",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[744] = {
+    name = "Treebeard",
+    faction = "Horde",
+    guid = "Player-6112-028AF789",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[745] = {
+    name = "Taikoja",
+    faction = "Horde",
+    guid = "Player-6112-028C33F9",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[746] = {
+    name = "Puccelini",
+    faction = "Horde",
+    guid = "Player-6112-028D3F1E",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[747] = {
+    name = "Messias",
+    faction = "Horde",
+    guid = "Player-6112-028FC941",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[748] = {
+    name = "Usva",
+    faction = "Horde",
+    guid = "Player-6112-02909E2F",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[749] = {
+    name = "Sjammu",
+    faction = "Horde",
+    guid = "Player-6112-02919398",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[750] = {
+    name = "Maukka",
+    faction = "Horde",
+    guid = "Player-6112-0291CE82",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[751] = {
+    name = "Ballero",
+    faction = "Horde",
+    guid = "Player-6112-0292891E",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[752] = {
+    name = "Ryhkäle",
+    faction = "Horde",
+    guid = "Player-6112-0295D265",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[753] = {
+    name = "Starpa",
+    faction = "Horde",
+    guid = "Player-6112-02963167",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[754] = {
+    name = "Jantevo",
+    faction = "Horde",
+    guid = "Player-6112-02A1E8FB",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[755] = {
+    name = "Muilu",
+    faction = "Horde",
+    guid = "Player-6112-02B3564C",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[756] = {
+    name = "Sattumayo",
+    faction = "Horde",
+    guid = "Player-6112-02F29C83",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[757] = {
+    name = "Gangstarap",
+    faction = "Horde",
+    guid = "Player-6112-0295F2F3",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[758] = {
+    name = "Väijy",
+    faction = "Horde",
+    guid = "Player-6112-030C520B",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[759] = {
+    name = "Hottidotti",
+    faction = "Horde",
+    guid = "Player-6112-02D716A8",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[761] = {
+    name = "Pepita",
+    faction = "Horde",
+    guid = "Player-6112-028DFCB6",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[762] = {
+    name = "Mauritsio",
+    faction = "Horde",
+    guid = "Player-6112-02FD351A",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[763] = {
+    name = "Jeesusmaukka",
+    faction = "Horde",
+    guid = "Player-6112-030EE900",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[764] = {
+    name = "Maukanpyssy",
+    faction = "Horde",
+    guid = "Player-6112-030F1DBF",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[765] = {
+    name = "Maaukka",
+    faction = "Horde",
+    guid = "Player-6112-02FE08A5",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[766] = {
+    name = "Mauriina",
+    faction = "Horde",
+    guid = "Player-6112-02948F57",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[767] = {
+    name = "Maukanmuija",
+    faction = "Horde",
+    guid = "Player-6112-02FB4EC4",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[768] = {
+    name = "Marlitsio",
+    faction = "Horde",
+    guid = "Player-6112-030579FB",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[769] = {
+    name = "Maukanlokki",
+    faction = "Horde",
+    guid = "Player-6112-02FF8C88",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[770] = {
+    name = "Ballerosan",
+    faction = "Horde",
+    guid = "Player-6112-03044349",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[771] = {
+    name = "Balleroo",
+    faction = "Horde",
+    guid = "Player-6112-02A4D348",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[772] = {
+    name = "Silec",
+    faction = "Horde",
+    guid = "Player-6112-02A4D348",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[773] = {
+    name = "Järvi",
+    faction = "Horde",
+    guid = "Player-6112-02F776F1",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[774] = {
+    name = "Rannanjärvi",
+    faction = "Horde",
+    guid = "Player-6112-02F8E2FD",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[775] = {
+    name = "Muilutuspaku",
+    faction = "Horde",
+    guid = "Player-6112-031D2396",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[776] = {
+    name = "Slytherinna",
+    faction = "Horde",
+    guid = "Player-6112-02A47B9B",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[777] = {
+    name = "Blinksy",
+    faction = "Horde",
+    guid = "Player-6112-02C48F61",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[778] = {
+    name = "Stana",
+    faction = "Horde",
+    guid = "Player-6112-0294C74F",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[779] = {
+    name = "Trollkami",
+    faction = "Horde",
+    guid = "Player-6112-02CF3B0D",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[780] = {
+    name = "Riittaliisa",
+    faction = "Horde",
+    guid = "Player-6112-02BCC703",
+    description = "SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
+},
+
+[781] = {
+    name = "Aanoki",
+    faction = "Horde",
+    guid = "Player-6112-028D2E9D",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1440760430829113365",
+},
+
+[782] = {
+    name = "Msyhorde",
+    faction = "Horde",
+    guid = "Player-6112-03176537",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1440760430829113365",
+},
+
+[783] = {
+    name = "Bundyto",
+    faction = "Horde",
+    guid = "Player-6112-029483E0",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[784] = {
+    name = "Minkong",
+    faction = "Horde",
+    guid = "Player-6112-02CCA94F",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[785] = {
+    name = "Mankytf",
+    faction = "Horde",
+    guid = "Player-6112-0296EB17",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[786] = {
+    name = "Ruana",
+    faction = "Horde",
+    guid = "Player-6112-028CFDDF",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[787] = {
+    name = "Djuve",
+    faction = "Horde",
+    guid = "Player-6112-029440E5",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[788] = {
+    name = "Zweni",
+    faction = "Horde",
+    guid = "Player-6112-02951B99",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[789] = {
+    name = "Ampulamare",
+    faction = "Horde",
+    guid = "Player-6112-0296F7C1",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[790] = {
+    name = "Faenroc",
+    faction = "Horde",
+    guid = "Player-6112-0293F156",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[791] = {
+    name = "Elchupacabra",
+    faction = "Horde",
+    guid = "Player-6112-02994963",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[792] = {
+    name = "Jaca",
+    faction = "Horde",
+    guid = "Player-6112-02CF438F",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[793] = {
+    name = "Kidor",
+    faction = "Horde",
+    guid = "Player-6112-02D5ED42",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[794] = {
+    name = "Sondare",
+    faction = "Horde",
+    guid = "Player-6112-02D151B9",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[795] = {
+    name = "Slovenc",
+    faction = "Horde",
+    guid = "Player-6112-029948DE",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[796] = {
+    name = "Mankyhf",
+    faction = "Horde",
+    guid = "Player-6112-031AA861",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[797] = {
+    name = "Shoomar",
+    faction = "Horde",
+    guid = "Player-6112-02F76D07",
+    description = "Griefing, SR Tampering, Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1440843519408472134",
+},
+
+[798] = {
+    name = "Arecord",
+    faction = "Alliance",
+    guid = "Player-6112-031320F1",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1440432017341812757",
+},
+
+[799] = {
+    name = "Vixra",
+    faction = "Alliance",
+    guid = "Player-6112-02898CFE",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1439993690742329395",
 },
 }
 
