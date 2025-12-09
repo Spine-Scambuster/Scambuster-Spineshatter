@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 901
+-- unique characters: 941
 
-t.version = "1.0.60"
+t.version = "1.0.61"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -842,7 +842,7 @@ t.case_table = {
     name = "Paradóx",
     faction = "Alliance",
     guid = "Player-6112-0293FFE2",
-    description = "Scam",
+    description = "Scam, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1340696631724740619",
 },
 
@@ -2778,7 +2778,7 @@ t.case_table = {
     name = "Jakal",
     faction = "Alliance",
     guid = "Player-6112-02934CFF",
-    description = "Scam, Ninja",
+    description = "Scam, Ninja, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
 },
 
@@ -4114,7 +4114,7 @@ t.case_table = {
     name = "Batistan",
     faction = "Horde",
     guid = "Player-6112-029368ED",
-    description = "Harassment, Scam",
+    description = "Scam, Harassment",
     url = "https://discord.com/channels/1306327491769798708/1398791208431653025",
 },
 
@@ -7154,7 +7154,7 @@ t.case_table = {
     name = "Dakerokgold",
     faction = "Horde",
     guid = "Player-6112-03196A32",
-    description = "Scam",
+    description = "Scam, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1444073903961014493",
 },
 
@@ -7199,19 +7199,339 @@ t.case_table = {
 },
 
 [906] = {
-    name = "Jgoodwin",
-    faction = "Horde",
-    guid = "Player-6112-0291DF9E",
-    description = "Scam",
-    url = "https://discord.com/channels/1306327491769798708/1445470816681595051",
-},
-
-[907] = {
     name = "Lunarr",
     faction = "Horde",
     guid = "Player-6112-029F94F7",
     description = "Scam, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1445105431931388157",
+},
+
+[907] = {
+    name = "Reminicsence",
+    faction = "Horde",
+    guid = "Player-6112-0320E4DA",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1444761855443734702",
+},
+
+[908] = {
+    name = "Riosh",
+    faction = "Horde",
+    guid = "Player-6112-02FC98FF",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1446164967249412241",
+},
+
+[909] = {
+    name = "Wizzland",
+    faction = "Horde",
+    guid = "Player-6112-02AC0164",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1446164967249412241",
+},
+
+[910] = {
+    name = "Dragonpala",
+    faction = "Alliance",
+    guid = "Player-6112-02D47B4D",
+    description = "Griefing, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1446533432971890708",
+},
+
+[911] = {
+    name = "Dragonffrost",
+    faction = "Alliance",
+    guid = "Player-6112-02F9A596",
+    description = "Griefing, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1446533432971890708",
+},
+
+[912] = {
+    name = "Màjêstiqúè",
+    faction = "Alliance",
+    guid = "Player-6112-02A254DB",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1446863310728200253",
+},
+
+[913] = {
+    name = "Leeluu",
+    faction = "Alliance",
+    guid = "Player-6112-030F5ECF",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1444467644928360651",
+},
+
+[914] = {
+    name = "Canton",
+    faction = "Horde",
+    guid = "Player-6112-0293763D",
+    description = "Harassment, Griefing, Other",
+    url = "https://discord.com/channels/1306327491769798708/1446972728455200960",
+},
+
+[915] = {
+    name = "Nexarius",
+    faction = "Horde",
+    guid = "Player-6112-02D15AC9",
+    description = "Harassment, Griefing, Other",
+    url = "https://discord.com/channels/1306327491769798708/1446972728455200960",
+},
+
+[916] = {
+    name = "Caliestine",
+    faction = "Alliance",
+    guid = "Player-6112-03106DBF",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1447274882638286848",
+},
+
+[917] = {
+    name = "Dakeroktitan",
+    faction = "Alliance",
+    guid = "Player-6112-02F2F1AA",
+    description = "Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1447256353516163294",
+},
+
+[918] = {
+    name = "Rakev",
+    faction = "Alliance",
+    guid = "Player-6112-02895364",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[919] = {
+    name = "Anz",
+    faction = "Alliance",
+    guid = "Player-6112-02896C26",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[920] = {
+    name = "Kallias",
+    faction = "Alliance",
+    guid = "Player-6112-028B84B5",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[921] = {
+    name = "Lowni",
+    faction = "Alliance",
+    guid = "Player-6112-028BC30C",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[922] = {
+    name = "Zanzi",
+    faction = "Alliance",
+    guid = "Player-6112-02ACA0F6",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[923] = {
+    name = "Neptoon",
+    faction = "Alliance",
+    guid = "Player-6112-02AD000F",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[924] = {
+    name = "Mcy",
+    faction = "Alliance",
+    guid = "Player-6112-02987DB2",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[925] = {
+    name = "Wasntme",
+    faction = "Alliance",
+    guid = "Player-6112-02AE16B8",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[926] = {
+    name = "Neptoonzer",
+    faction = "Alliance",
+    guid = "Player-6112-02B20723",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[927] = {
+    name = "Rkv",
+    faction = "Alliance",
+    guid = "Player-6112-02B40AB7",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[928] = {
+    name = "Ljk",
+    faction = "Alliance",
+    guid = "Player-6112-02C55A35",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[929] = {
+    name = "Ochocinco",
+    faction = "Alliance",
+    guid = "Player-6112-02C8DCCD",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[930] = {
+    name = "Jakalz",
+    faction = "Alliance",
+    guid = "Player-6112-02CF87E7",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[931] = {
+    name = "Wasntm",
+    faction = "Alliance",
+    guid = "Player-6112-02DF1A54",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[932] = {
+    name = "Rqkev",
+    faction = "Alliance",
+    guid = "Player-6112-02F12EEC",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[933] = {
+    name = "Drgrinspoonz",
+    faction = "Alliance",
+    guid = "Player-6112-02F64F4D",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[934] = {
+    name = "Jklz",
+    faction = "Alliance",
+    guid = "Player-6112-02F7C775",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[935] = {
+    name = "Drgrinspoons",
+    faction = "Alliance",
+    guid = "Player-6112-0319079D",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[936] = {
+    name = "Saphxz",
+    faction = "Alliance",
+    guid = "Player-6112-028BD51C",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1374431269370335232",
+},
+
+[937] = {
+    name = "Rháena",
+    faction = "Horde",
+    guid = "Player-6112-02F0C43D",
+    description = "Ninja, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1447398055115755672",
+},
+
+[938] = {
+    name = "Korvmumsarn",
+    faction = "Horde",
+    guid = "Player-6112-02DF2008",
+    description = "Ninja, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1447398055115755672",
+},
+
+[939] = {
+    name = "Visényá",
+    faction = "Horde",
+    guid = "Player-6112-029A18DE",
+    description = "Ninja, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1447398055115755672",
+},
+
+[940] = {
+    name = "Catsith",
+    faction = "Horde",
+    guid = "Player-6112-02B3F5CD",
+    description = "Ninja, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1447398055115755672",
+},
+
+[941] = {
+    name = "Holystreak",
+    faction = "Horde",
+    guid = "Player-6112-02DF39F8",
+    description = "Ninja, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1447398055115755672",
+},
+
+[942] = {
+    name = "Scumoll",
+    faction = "Horde",
+    guid = "Player-6112-030F685A",
+    description = "Ninja, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1447398055115755672",
+},
+
+[943] = {
+    name = "Asraël",
+    faction = "Horde",
+    guid = "Player-6112-02C04A42",
+    description = "Ninja, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1447398055115755672",
+},
+
+[944] = {
+    name = "Killerwomen",
+    faction = "Horde",
+    guid = "Player-6112-02F1A7C1",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1446110768964833405",
+},
+
+[945] = {
+    name = "Acaino",
+    faction = "Alliance",
+    guid = "Player-6112-0314AE8F",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1447673869681823794",
+},
+
+[946] = {
+    name = "Lepetit",
+    faction = "Alliance",
+    guid = "Player-6112-028EA019",
+    description = "Scam, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1447337131554111618",
+},
+
+[947] = {
+    name = "Palared",
+    faction = "Horde",
+    guid = "Player-6112-0288FAA4",
+    description = "Ninja, Scam, Griefing, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1447769424475193395",
 },
 }
 
