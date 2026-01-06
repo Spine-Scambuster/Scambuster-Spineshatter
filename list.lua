@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 1108
+-- unique characters: 1120
 
-t.version = "1.0.66"
+t.version = "1.0.67"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -4951,7 +4951,7 @@ t.case_table = {
 },
 
 [624] = {
-    name = "Yougmaki",
+    name = "Anothercd",
     faction = "Alliance",
     guid = "Player-6112-02BD8AA2",
     description = "GDKP, Scam",
@@ -7879,14 +7879,6 @@ t.case_table = {
 },
 
 [991] = {
-    name = "Ðrøzzx",
-    faction = "Horde",
-    guid = "Player-6112-03122D97",
-    description = "Ninja",
-    url = "https://discord.com/channels/1306327491769798708/1451622271692181625",
-},
-
-[992] = {
     name = "Kiksdk",
     faction = "Alliance",
     guid = "Player-6112-02DFB032",
@@ -7894,7 +7886,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453115158023901225",
 },
 
-[993] = {
+[992] = {
     name = "Pungshot",
     faction = "Alliance",
     guid = "Player-6112-02EB3B6B",
@@ -7902,7 +7894,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453115158023901225",
 },
 
-[994] = {
+[993] = {
     name = "Valintalo",
     faction = "Horde",
     guid = "Player-6112-02D72F96",
@@ -7910,7 +7902,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1450923382353957066",
 },
 
-[995] = {
+[994] = {
     name = "Drketama",
     faction = "Alliance",
     guid = "Player-6112-031DDF78",
@@ -7918,7 +7910,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1452422344667562024",
 },
 
-[996] = {
+[995] = {
     name = "Bombastieck",
     faction = "Alliance",
     guid = "Player-6112-02DE2A23",
@@ -7926,7 +7918,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1452684074857795684",
 },
 
-[997] = {
+[996] = {
     name = "Tankytim",
     faction = "Horde",
     guid = "Player-6112-028CE303",
@@ -7934,7 +7926,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[998] = {
+[997] = {
     name = "Antikilogas",
     faction = "Horde",
     guid = "Player-6112-029D84BD",
@@ -7942,7 +7934,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[999] = {
+[998] = {
     name = "Tankyjeff",
     faction = "Horde",
     guid = "Player-6112-02F76BC9",
@@ -7950,7 +7942,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1000] = {
+[999] = {
     name = "Prystesê",
     faction = "Horde",
     guid = "Player-6112-0315A78F",
@@ -7958,7 +7950,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1001] = {
+[1000] = {
     name = "Tankyleopard",
     faction = "Horde",
     guid = "Player-6112-0324A8D2",
@@ -7966,7 +7958,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1002] = {
+[1001] = {
     name = "Hootoo",
     faction = "Horde",
     guid = "Player-6112-028CF6DF",
@@ -7974,7 +7966,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1003] = {
+[1002] = {
     name = "Tankytiffany",
     faction = "Horde",
     guid = "Player-6112-02C9D5B7",
@@ -7982,7 +7974,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1004] = {
+[1003] = {
     name = "Døntaskforwf",
     faction = "Horde",
     guid = "Player-6112-02BDADD0",
@@ -7990,7 +7982,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1005] = {
+[1004] = {
     name = "Tankyjerald",
     faction = "Horde",
     guid = "Player-6112-0324A8C9",
@@ -7998,7 +7990,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1006] = {
+[1005] = {
     name = "Loanrat",
     faction = "Horde",
     guid = "Player-6112-0299C87F",
@@ -8006,7 +7998,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1007] = {
+[1006] = {
     name = "Liandrä",
     faction = "Horde",
     guid = "Player-6112-02C8794C",
@@ -8014,7 +8006,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1008] = {
+[1007] = {
     name = "Tankyemma",
     faction = "Horde",
     guid = "Player-6112-02F83047",
@@ -8022,7 +8014,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1009] = {
+[1008] = {
     name = "Rankwarrior",
     faction = "Horde",
     guid = "Player-6112-02B7440E",
@@ -8030,7 +8022,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1010] = {
+[1009] = {
     name = "Oluja",
     faction = "Horde",
     guid = "Player-6112-02959434",
@@ -8038,7 +8030,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1011] = {
+[1010] = {
     name = "Argohunter",
     faction = "Horde",
     guid = "Player-6112-02AA244A",
@@ -8046,7 +8038,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1012] = {
+[1011] = {
     name = "Vrakgul",
     faction = "Horde",
     guid = "Player-6112-028D64F7",
@@ -8054,7 +8046,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1013] = {
+[1012] = {
     name = "Justamage",
     faction = "Horde",
     guid = "Player-6112-0296187A",
@@ -8062,7 +8054,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1014] = {
+[1013] = {
     name = "Enkillz",
     faction = "Horde",
     guid = "Player-6112-02DB4F52",
@@ -8070,7 +8062,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1015] = {
+[1014] = {
     name = "Masthema",
     faction = "Horde",
     guid = "Player-6112-02A5DF12",
@@ -8078,7 +8070,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1016] = {
+[1015] = {
     name = "Khayman",
     faction = "Horde",
     guid = "Player-6112-02B377AC",
@@ -8086,7 +8078,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1017] = {
+[1016] = {
     name = "Shimin",
     faction = "Horde",
     guid = "Player-6112-02C4D2C9",
@@ -8094,7 +8086,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453399924409630992",
 },
 
-[1018] = {
+[1017] = {
     name = "Sackpfeife",
     faction = "Horde",
     guid = "Player-6112-030E0A28",
@@ -8102,7 +8094,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453160065723924625",
 },
 
-[1019] = {
+[1018] = {
     name = "Druss",
     faction = "Horde",
     guid = "Player-6112-02961FE2",
@@ -8110,7 +8102,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453160065723924625",
 },
 
-[1020] = {
+[1019] = {
     name = "Erinisawitch",
     faction = "Alliance",
     guid = "Player-6112-02D6F5BE",
@@ -8118,7 +8110,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453519180027400323",
 },
 
-[1021] = {
+[1020] = {
     name = "Browan",
     faction = "Horde",
     guid = "Player-6112-0318FF56",
@@ -8126,7 +8118,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453748289076985999",
 },
 
-[1022] = {
+[1021] = {
     name = "Savis",
     faction = "Alliance",
     guid = "Player-6112-02C4F9C8",
@@ -8134,7 +8126,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453494035816644831",
 },
 
-[1023] = {
+[1022] = {
     name = "Lolipoli",
     faction = "Alliance",
     guid = "Player-6112-0327A29F",
@@ -8142,7 +8134,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453792962436665475",
 },
 
-[1024] = {
+[1023] = {
     name = "Sauronel",
     faction = "Alliance",
     guid = "Player-6112-03156EEB",
@@ -8150,7 +8142,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453792962436665475",
 },
 
-[1025] = {
+[1024] = {
     name = "Aidenlock",
     faction = "Alliance",
     guid = "Player-6112-02AB5D1A",
@@ -8158,7 +8150,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453732454270632066",
 },
 
-[1026] = {
+[1025] = {
     name = "Diamis",
     faction = "Alliance",
     guid = "Player-6112-0315A0FE",
@@ -8166,7 +8158,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453732454270632066",
 },
 
-[1027] = {
+[1026] = {
     name = "Eulogison",
     faction = "Alliance",
     guid = "Player-6112-0318A7E0",
@@ -8174,7 +8166,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453817483130703872",
 },
 
-[1028] = {
+[1027] = {
     name = "Lepolx",
     faction = "Horde",
     guid = "Player-6112-031CA7E5",
@@ -8182,7 +8174,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1454199740307865672",
 },
 
-[1029] = {
+[1028] = {
     name = "Petêr",
     faction = "Horde",
     guid = "Player-6112-031DC090",
@@ -8190,7 +8182,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453968840831799337",
 },
 
-[1030] = {
+[1029] = {
     name = "Truthbrínger",
     faction = "Alliance",
     guid = "Player-6112-02CC5E5A",
@@ -8198,7 +8190,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453854338287013908",
 },
 
-[1031] = {
+[1030] = {
     name = "Mhnlover",
     faction = "Horde",
     guid = "Player-6112-03187C60",
@@ -8206,7 +8198,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453904937745514632",
 },
 
-[1032] = {
+[1031] = {
     name = "Tömbäqu",
     faction = "Horde",
     guid = "Player-6112-0328BAD8",
@@ -8214,7 +8206,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453849991591231590",
 },
 
-[1033] = {
+[1032] = {
     name = "Foæacat",
     faction = "Horde",
     guid = "Player-6112-03297E49",
@@ -8222,7 +8214,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1454536536837193749",
 },
 
-[1034] = {
+[1033] = {
     name = "Dmforyou",
     faction = "Horde",
     guid = "Player-6112-03284635",
@@ -8230,7 +8222,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1454546528902447196",
 },
 
-[1035] = {
+[1034] = {
     name = "Totemi",
     faction = "Horde",
     guid = "Player-6112-0291CF36",
@@ -8238,7 +8230,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
 },
 
-[1036] = {
+[1035] = {
     name = "Attedude",
     faction = "Horde",
     guid = "Player-6112-0316CBF1",
@@ -8246,7 +8238,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1454598965654851756",
 },
 
-[1037] = {
+[1036] = {
     name = "Wilho",
     faction = "Horde",
     guid = "Player-6112-029902FB",
@@ -8254,7 +8246,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1454598965654851756",
 },
 
-[1038] = {
+[1037] = {
     name = "Folkewest",
     faction = "Horde",
     guid = "Player-6112-0293E456",
@@ -8262,7 +8254,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1454598965654851756",
 },
 
-[1039] = {
+[1038] = {
     name = "Marttiini",
     faction = "Horde",
     guid = "Player-6112-02F83FF1",
@@ -8270,7 +8262,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
 },
 
-[1040] = {
+[1039] = {
     name = "Markules",
     faction = "Horde",
     guid = "Player-6112-0320BC0F",
@@ -8278,7 +8270,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
 },
 
-[1041] = {
+[1040] = {
     name = "Rölkami",
     faction = "Horde",
     guid = "Player-6112-03102298",
@@ -8286,7 +8278,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
 },
 
-[1042] = {
+[1041] = {
     name = "Pyssyliisa",
     faction = "Horde",
     guid = "Player-6112-03287B2A",
@@ -8294,7 +8286,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1440482222435209329",
 },
 
-[1043] = {
+[1042] = {
     name = "Lepolx",
     faction = "Horde",
     guid = "Player-6112-031CA7E5",
@@ -8302,7 +8294,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1454554842952634481",
 },
 
-[1044] = {
+[1043] = {
     name = "Nextfresh",
     faction = "Alliance",
     guid = "Player-6112-02D65DEC",
@@ -8310,7 +8302,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1454597605253320950",
 },
 
-[1045] = {
+[1044] = {
     name = "Vestpuchii",
     faction = "Alliance",
     guid = "Player-6112-0291F533",
@@ -8318,7 +8310,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1454597605253320950",
 },
 
-[1046] = {
+[1045] = {
     name = "Aoeninja",
     faction = "Alliance",
     guid = "Player-6112-02FAF731",
@@ -8326,7 +8318,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1455309198169477223",
 },
 
-[1047] = {
+[1046] = {
     name = "Varázsluk",
     faction = "Horde",
     guid = "Player-6112-02AA5F71",
@@ -8334,7 +8326,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1455145747635765298",
 },
 
-[1048] = {
+[1047] = {
     name = "Amolock",
     faction = "Alliance",
     guid = "Player-6112-031C17B4",
@@ -8342,7 +8334,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1453494035816644831",
 },
 
-[1049] = {
+[1048] = {
     name = "Dainerys",
     faction = "Horde",
     guid = "Player-6112-03296DBB",
@@ -8350,7 +8342,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1455348022048329911",
 },
 
-[1050] = {
+[1049] = {
     name = "Krabka",
     faction = "Horde",
     guid = "Player-6112-032B0BA0",
@@ -8358,7 +8350,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1455348022048329911",
 },
 
-[1051] = {
+[1050] = {
     name = "Elmehicoo",
     faction = "Horde",
     guid = "Player-6112-02C32DC3",
@@ -8366,7 +8358,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1420127788735791325",
 },
 
-[1052] = {
+[1051] = {
     name = "Semgo",
     faction = "Alliance",
     guid = "Player-6112-0313F139",
@@ -8374,7 +8366,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1053] = {
+[1052] = {
     name = "Yousifer",
     faction = "Alliance",
     guid = "Player-6112-02A6D5ED",
@@ -8382,7 +8374,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1054] = {
+[1053] = {
     name = "Payfortank",
     faction = "Alliance",
     guid = "Player-6112-02B92C5F",
@@ -8390,7 +8382,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1055] = {
+[1054] = {
     name = "Demeera",
     faction = "Alliance",
     guid = "Player-6112-02D2967F",
@@ -8398,7 +8390,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1056] = {
+[1055] = {
     name = "Magediff",
     faction = "Alliance",
     guid = "Player-6112-02DAF706",
@@ -8406,7 +8398,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1057] = {
+[1056] = {
     name = "Noyalx",
     faction = "Alliance",
     guid = "Player-6112-0322C73C",
@@ -8414,7 +8406,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1058] = {
+[1057] = {
     name = "Morduck",
     faction = "Alliance",
     guid = "Player-6112-028950D0",
@@ -8422,7 +8414,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1059] = {
+[1058] = {
     name = "Onatopp",
     faction = "Alliance",
     guid = "Player-6112-02896A03",
@@ -8430,7 +8422,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1060] = {
+[1059] = {
     name = "Honèy",
     faction = "Alliance",
     guid = "Player-6112-0291B35C",
@@ -8438,7 +8430,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1061] = {
+[1060] = {
     name = "Fonshve",
     faction = "Alliance",
     guid = "Player-6112-0291FBA0",
@@ -8446,7 +8438,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1062] = {
+[1061] = {
     name = "Menn",
     faction = "Alliance",
     guid = "Player-6112-02939D53",
@@ -8454,7 +8446,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1063] = {
+[1062] = {
     name = "Chepomfrit",
     faction = "Alliance",
     guid = "Player-6112-0293ABEF",
@@ -8462,7 +8454,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1064] = {
+[1063] = {
     name = "Eldrynn",
     faction = "Alliance",
     guid = "Player-6112-029CB3F6",
@@ -8470,7 +8462,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1065] = {
+[1064] = {
     name = "Fullmeasure",
     faction = "Alliance",
     guid = "Player-6112-02A51D67",
@@ -8478,7 +8470,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1066] = {
+[1065] = {
     name = "Narmira",
     faction = "Alliance",
     guid = "Player-6112-02AB01DE",
@@ -8486,7 +8478,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1067] = {
+[1066] = {
     name = "Asteia",
     faction = "Alliance",
     guid = "Player-6112-02AB03AD",
@@ -8494,7 +8486,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1068] = {
+[1067] = {
     name = "Maugter",
     faction = "Alliance",
     guid = "Player-6112-02ACD8F6",
@@ -8502,7 +8494,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1069] = {
+[1068] = {
     name = "Abdällah",
     faction = "Alliance",
     guid = "Player-6112-02AE26BF",
@@ -8510,7 +8502,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1070] = {
+[1069] = {
     name = "Icecryz",
     faction = "Alliance",
     guid = "Player-6112-02B0A3A9",
@@ -8518,7 +8510,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1071] = {
+[1070] = {
     name = "Mynyssa",
     faction = "Alliance",
     guid = "Player-6112-02B6FF8C",
@@ -8526,7 +8518,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1072] = {
+[1071] = {
     name = "Noobarella",
     faction = "Alliance",
     guid = "Player-6112-02B843D3",
@@ -8534,7 +8526,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1073] = {
+[1072] = {
     name = "Amazebear",
     faction = "Alliance",
     guid = "Player-6112-02B8D133",
@@ -8542,7 +8534,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1074] = {
+[1073] = {
     name = "Powerdruid",
     faction = "Alliance",
     guid = "Player-6112-02B99E0E",
@@ -8550,7 +8542,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1075] = {
+[1074] = {
     name = "Eischti",
     faction = "Alliance",
     guid = "Player-6112-02BC2EF6",
@@ -8558,7 +8550,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1076] = {
+[1075] = {
     name = "Critzer",
     faction = "Alliance",
     guid = "Player-6112-02CA6462",
@@ -8566,7 +8558,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1077] = {
+[1076] = {
     name = "Ujok",
     faction = "Alliance",
     guid = "Player-6112-02F35D14",
@@ -8574,7 +8566,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1078] = {
+[1077] = {
     name = "Andúín",
     faction = "Alliance",
     guid = "Player-6112-02FECD9C",
@@ -8582,7 +8574,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1079] = {
+[1078] = {
     name = "Elzafer",
     faction = "Alliance",
     guid = "Player-6112-030E6A32",
@@ -8590,7 +8582,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1333119362285961250",
 },
 
-[1080] = {
+[1079] = {
     name = "Niwelania",
     faction = "Alliance",
     guid = "Player-6112-02F0B29E",
@@ -8598,7 +8590,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1455323680430358670",
 },
 
-[1081] = {
+[1080] = {
     name = "Lebronx",
     faction = "Horde",
     guid = "Player-6112-02DC5597",
@@ -8606,7 +8598,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1455920036400201953",
 },
 
-[1082] = {
+[1081] = {
     name = "Lebronxtwo",
     faction = "Horde",
     guid = "Player-6112-032832AD",
@@ -8614,7 +8606,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1455920036400201953",
 },
 
-[1083] = {
+[1082] = {
     name = "Bonecleaver",
     faction = "Alliance",
     guid = "Player-6112-02DC323E",
@@ -8622,7 +8614,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456044175546912832",
 },
 
-[1084] = {
+[1083] = {
     name = "Fulldamage",
     faction = "Alliance",
     guid = "Player-6112-0315D16D",
@@ -8630,7 +8622,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456044175546912832",
 },
 
-[1085] = {
+[1084] = {
     name = "Exklusiv",
     faction = "Horde",
     guid = "Player-6112-03145015",
@@ -8638,7 +8630,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456397578815017061",
 },
 
-[1086] = {
+[1085] = {
     name = "Kukia",
     faction = "Horde",
     guid = "Player-6112-032AACFD",
@@ -8646,7 +8638,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456397578815017061",
 },
 
-[1087] = {
+[1086] = {
     name = "Ofo",
     faction = "Horde",
     guid = "Player-6112-02ACFEF4",
@@ -8654,7 +8646,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456605357194346659",
 },
 
-[1088] = {
+[1087] = {
     name = "Ziizz",
     faction = "Alliance",
     guid = "Player-6112-03223792",
@@ -8662,7 +8654,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456038886215122965",
 },
 
-[1089] = {
+[1088] = {
     name = "Olddlock",
     faction = "Alliance",
     guid = "Player-6112-032BE6F7",
@@ -8670,7 +8662,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456038886215122965",
 },
 
-[1090] = {
+[1089] = {
     name = "Kwkv",
     faction = "Horde",
     guid = "Player-6112-03194EA1",
@@ -8678,7 +8670,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1457000169462562937",
 },
 
-[1091] = {
+[1090] = {
     name = "Dragonkingg",
     faction = "Alliance",
     guid = "Player-6112-0306CB56",
@@ -8686,7 +8678,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1446533432971890708",
 },
 
-[1092] = {
+[1091] = {
     name = "Yeayoucan",
     faction = "Alliance",
     guid = "Player-6112-02DB828D",
@@ -8694,7 +8686,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456551547289862184",
 },
 
-[1093] = {
+[1092] = {
     name = "Vinaz",
     faction = "Alliance",
     guid = "Player-6112-029D710D",
@@ -8702,7 +8694,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456551547289862184",
 },
 
-[1094] = {
+[1093] = {
     name = "Xfrostman",
     faction = "Alliance",
     guid = "Player-6112-031B3C3A",
@@ -8710,7 +8702,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456494977428230185",
 },
 
-[1095] = {
+[1094] = {
     name = "Bloodiio",
     faction = "Horde",
     guid = "Player-6112-02D05DF8",
@@ -8718,7 +8710,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456072710420566140",
 },
 
-[1096] = {
+[1095] = {
     name = "Undwarlock",
     faction = "Horde",
     guid = "Player-6112-032038F1",
@@ -8726,7 +8718,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456072710420566140",
 },
 
-[1097] = {
+[1096] = {
     name = "Policee",
     faction = "Horde",
     guid = "Player-6112-0310BCB0",
@@ -8734,7 +8726,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456072710420566140",
 },
 
-[1098] = {
+[1097] = {
     name = "Nenyaloga",
     faction = "Horde",
     guid = "Player-6112-02A5DD33",
@@ -8742,7 +8734,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456681117733097472",
 },
 
-[1099] = {
+[1098] = {
     name = "Warlockjonn",
     faction = "Alliance",
     guid = "Player-6112-032A191C",
@@ -8750,7 +8742,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1456708226669088992",
 },
 
-[1100] = {
+[1099] = {
     name = "Roliatthree",
     faction = "Alliance",
     guid = "Player-6112-02DC8856",
@@ -8758,7 +8750,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1457030254928465920",
 },
 
-[1101] = {
+[1100] = {
     name = "Waally",
     faction = "Horde",
     guid = "Player-6112-02F805B9",
@@ -8766,7 +8758,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1457034842448334878",
 },
 
-[1102] = {
+[1101] = {
     name = "Dorema",
     faction = "Alliance",
     guid = "Player-6112-032C33AC",
@@ -8774,7 +8766,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1457060295976681655",
 },
 
-[1103] = {
+[1102] = {
     name = "Supramex",
     faction = "Horde",
     guid = "Player-6112-02EACFEF",
@@ -8782,7 +8774,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1420127788735791325",
 },
 
-[1104] = {
+[1103] = {
     name = "Ellmehico",
     faction = "Horde",
     guid = "Player-6112-02F8710A",
@@ -8790,7 +8782,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1420127788735791325",
 },
 
-[1105] = {
+[1104] = {
     name = "Ellmehicoo",
     faction = "Horde",
     guid = "Player-6112-03007537",
@@ -8798,7 +8790,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1420127788735791325",
 },
 
-[1106] = {
+[1105] = {
     name = "Turboosupra",
     faction = "Horde",
     guid = "Player-6112-0310FCA0",
@@ -8806,7 +8798,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1420127788735791325",
 },
 
-[1107] = {
+[1106] = {
     name = "Driftsupra",
     faction = "Horde",
     guid = "Player-6112-02FBC206",
@@ -8814,7 +8806,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1420127788735791325",
 },
 
-[1108] = {
+[1107] = {
     name = "Onesupra",
     faction = "Horde",
     guid = "Player-6112-0320A6CB",
@@ -8822,7 +8814,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1420127788735791325",
 },
 
-[1109] = {
+[1108] = {
     name = "Laxgnome",
     faction = "Alliance",
     guid = "Player-6112-0294AAAC",
@@ -8830,7 +8822,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1457424098383630482",
 },
 
-[1110] = {
+[1109] = {
     name = "Fiate",
     faction = "Alliance",
     guid = "Player-6112-032A0288",
@@ -8838,7 +8830,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1457086245850320896",
 },
 
-[1111] = {
+[1110] = {
     name = "Könserz",
     faction = "Alliance",
     guid = "Player-6112-032A68F4",
@@ -8846,7 +8838,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1457453426177871936",
 },
 
-[1112] = {
+[1111] = {
     name = "Whitemagé",
     faction = "Horde",
     guid = "Player-6112-02B4686B",
@@ -8854,7 +8846,7 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1457055822655000738",
 },
 
-[1113] = {
+[1112] = {
     name = "Lastofuss",
     faction = "Alliance",
     guid = "Player-6112-02ADE910",
@@ -8862,12 +8854,116 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1457337862948389088",
 },
 
-[1114] = {
+[1113] = {
     name = "mininome",
     faction = "Alliance",
     guid = "Player-6112-02C7F454",
     description = "Scam",
     url = "https://discord.com/channels/1306327491769798708/1433210474681471097",
+},
+
+[1114] = {
+    name = "Sheek",
+    faction = "Alliance",
+    guid = "Player-6112-028B9AC9",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457469815756165282",
+},
+
+[1115] = {
+    name = "Sheekm",
+    faction = "Alliance",
+    guid = "Player-6112-02CA53AE",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457469815756165282",
+},
+
+[1116] = {
+    name = "Sheekqt",
+    faction = "Alliance",
+    guid = "Player-6112-02CC5784",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457469815756165282",
+},
+
+[1117] = {
+    name = "Sheekw",
+    faction = "Alliance",
+    guid = "Player-6112-031FC024",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457469815756165282",
+},
+
+[1118] = {
+    name = "Sheekd",
+    faction = "Alliance",
+    guid = "Player-6112-03160A98",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457469815756165282",
+},
+
+[1119] = {
+    name = "Sheekr",
+    faction = "Alliance",
+    guid = "Player-6112-02B064B9",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457469815756165282",
+},
+
+[1120] = {
+    name = "Hokkies",
+    faction = "Alliance",
+    guid = "Player-6112-0289CB38",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457469815756165282",
+},
+
+[1121] = {
+    name = "Hokkiestwo",
+    faction = "Alliance",
+    guid = "Player-6112-02A0201D",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457469815756165282",
+},
+
+[1122] = {
+    name = "Hokkiesqt",
+    faction = "Alliance",
+    guid = "Player-6112-02E60C0B",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457469815756165282",
+},
+
+[1123] = {
+    name = "Doghugger",
+    faction = "Alliance",
+    guid = "Player-6112-031A57CD",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457411995111526636",
+},
+
+[1124] = {
+    name = "Vorfalk",
+    faction = "Alliance",
+    guid = "Player-6112-03144C22",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457838345060221078",
+},
+
+[1125] = {
+    name = "Takehikol",
+    faction = "Alliance",
+    guid = "Player-6112-0324FCBB",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457838345060221078",
+},
+
+[1126] = {
+    name = "Bigsmocki",
+    faction = "Alliance",
+    guid = "Player-6112-031953F6",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1457186184232046786",
 },
 }
 
