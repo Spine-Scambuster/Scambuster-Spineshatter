@@ -4,7 +4,7 @@ local _, t = ...
 
 -- unique characters: 1159
 
-t.version = "1.0.70"
+t.version = "1.0.71"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -8855,7 +8855,7 @@ t.case_table = {
 },
 
 [1112] = {
-    name = "mininome",
+    name = "Mininome",
     faction = "Alliance",
     guid = "Player-6412-02C7F454",
     description = "Scam",
@@ -8903,7 +8903,7 @@ t.case_table = {
 },
 
 [1118] = {
-    name = "killphase",
+    name = "Killphase",
     faction = "Horde",
     guid = "Player-6412-03272817",
     description = "Scam, Repeat Offender",

@@ -2,7 +2,7 @@
 ## Title: Scambuster-Spineshatter
 ## Notes: Extension for Scambuster packaging Spineshatter EU PvP Discord realm data.
 ## Author: Spine-Scambuster
-## Version: 1.0.70
+## Version: 1.0.71
 ## DefaultState: enabled
 ## Dependencies: Scambuster
 
