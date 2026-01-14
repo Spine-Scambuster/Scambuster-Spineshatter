@@ -2,13 +2,13 @@
   "releases": [
     {
       "name": "Scambuster-Spineshatter",
-      "version": "1.0.71",
-      "filename": "Scambuster-Spineshatter-1.0.71-classic.zip",
+      "version": "1.0.72",
+      "filename": "Scambuster-Spineshatter-1.0.72-classic.zip",
       "nolib": false,
       "metadata": [
         {
           "flavor": "classic",
-          "interface": 113506
+          "interface": 20505
         }
       ]
     }

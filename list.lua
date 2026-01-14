@@ -4,7 +4,7 @@ local _, t = ...
 
 -- unique characters: 1159
 
-t.version = "1.0.71"
+t.version = "1.0.72"
 t.case_table = {
 [1] = {
     name = "Aan",
