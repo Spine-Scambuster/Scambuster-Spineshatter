@@ -7,7 +7,7 @@
 We utilize the Scambuster addon framework to compile and distribute our list of identified offenders using publicly available data from the [Spineshatter EU PvP](https://discord.gg/spineshatter) community. This addon is specifically designed to work seamlessly with [Scambuster](https://github.com/hypernormalisation/Scambuster) addon framework. If you wish to receive in-game alerts upon joining a PUG, please follow the steps outlined below.
 
 **Setup with automatic updates:**
-1. Download the **[Wowup Addon Client](https://wowup.io/)** 
+1. Download the **[WowUp v2.22.1-beta.2 CF Addon Client](https://github.com/WowUp/WowUp.CF/releases/download/v2.22.1-beta.2/WowUp-CF-Setup-2.22.1-beta.2.exe)** 
 2. Go to the **Get Addons** tab.
 3. Click on the **Install from URL** button.
 4. **Copy & Paste** both addon GitHub URLs:
