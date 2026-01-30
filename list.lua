@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 1224
+-- unique characters: 1267
 
-t.version = "1.0.76"
+t.version = "1.0.77"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -9796,6 +9796,350 @@ t.case_table = {
     guid = "Player-6412-02E1EA5D",
     description = "Ninja, Scam, Griefing",
     url = "https://discord.com/channels/1306327491769798708/1463580972615205128",
+},
+
+[1230] = {
+    name = "Waray",
+    faction = "Alliance",
+    guid = "Player-6412-02920F7C",
+    description = "Other, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1466458446248411156",
+},
+
+[1231] = {
+    name = "Titøø",
+    faction = "Alliance",
+    guid = "Player-6412-034119A1",
+    description = "Ninja, Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1466051018918723654",
+},
+
+[1232] = {
+    name = "Mémorise",
+    faction = "Alliance",
+    guid = "Player-6412-02B54CCB",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1466051243834216533",
+},
+
+[1233] = {
+    name = "Shattera",
+    faction = "Alliance",
+    guid = "Player-6412-02897E2B",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1234] = {
+    name = "Buster",
+    faction = "Alliance",
+    guid = "Player-6412-0289971A",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1235] = {
+    name = "Qv",
+    faction = "Alliance",
+    guid = "Player-6412-0291B1BD",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1236] = {
+    name = "Besser",
+    faction = "Alliance",
+    guid = "Player-6412-029AE901",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1237] = {
+    name = "Shatmeister",
+    faction = "Alliance",
+    guid = "Player-6412-02A0C791",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1238] = {
+    name = "Bustersmalls",
+    faction = "Alliance",
+    guid = "Player-6412-02AB15A9",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1239] = {
+    name = "Shatlock",
+    faction = "Alliance",
+    guid = "Player-6412-02AE027B",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1240] = {
+    name = "Aneurysmp",
+    faction = "Alliance",
+    guid = "Player-6412-02C89073",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1241] = {
+    name = "Biggpoppa",
+    faction = "Alliance",
+    guid = "Player-6412-02C9D13D",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1242] = {
+    name = "Purplecrown",
+    faction = "Alliance",
+    guid = "Player-6412-02FEDBD0",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1243] = {
+    name = "Purpleruler",
+    faction = "Alliance",
+    guid = "Player-6412-0302E0D1",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1244] = {
+    name = "Busterx",
+    faction = "Alliance",
+    guid = "Player-6412-031D8B5C",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1245] = {
+    name = "Shatbuffbot",
+    faction = "Alliance",
+    guid = "Player-6412-02FC2FB8",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1246] = {
+    name = "Bessertwo",
+    faction = "Alliance",
+    guid = "Player-6412-0302E075",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1247] = {
+    name = "Fattymatty",
+    faction = "Alliance",
+    guid = "Player-6412-02895318",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1248] = {
+    name = "Lotharia",
+    faction = "Alliance",
+    guid = "Player-6412-028BA502",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1249] = {
+    name = "Runicpala",
+    faction = "Alliance",
+    guid = "Player-6412-02A6AC65",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1250] = {
+    name = "Lotharic",
+    faction = "Alliance",
+    guid = "Player-6412-02ABB681",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1251] = {
+    name = "Cinur",
+    faction = "Alliance",
+    guid = "Player-6412-02AD2A02",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1252] = {
+    name = "Defcap",
+    faction = "Alliance",
+    guid = "Player-6412-02AEE951",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1253] = {
+    name = "Mattyfatty",
+    faction = "Alliance",
+    guid = "Player-6412-02AF45A2",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1254] = {
+    name = "Thorian",
+    faction = "Alliance",
+    guid = "Player-6412-02B7C88C",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1255] = {
+    name = "Kazreth",
+    faction = "Alliance",
+    guid = "Player-6412-02CA04E0",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1256] = {
+    name = "Fattyburger",
+    faction = "Alliance",
+    guid = "Player-6412-02D5FB73",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1257] = {
+    name = "Fattypala",
+    faction = "Alliance",
+    guid = "Player-6412-02F0E01C",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1258] = {
+    name = "Kazmodeus",
+    faction = "Alliance",
+    guid = "Player-6412-02ABB6DA",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1466211228484632810",
+},
+
+[1259] = {
+    name = "Jebenskrat",
+    faction = "Alliance",
+    guid = "Player-6412-0324D046",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1260] = {
+    name = "Drfrida",
+    faction = "Alliance",
+    guid = "Player-6412-02CB2806",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1261] = {
+    name = "Fegula",
+    faction = "Alliance",
+    guid = "Player-6412-02CD1DA8",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1262] = {
+    name = "Missherora",
+    faction = "Alliance",
+    guid = "Player-6412-02BB024E",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1263] = {
+    name = "Muktor",
+    faction = "Alliance",
+    guid = "Player-6412-03275F68",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1264] = {
+    name = "Zdravilka",
+    faction = "Alliance",
+    guid = "Player-6412-02AD26B1",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1265] = {
+    name = "Shinex",
+    faction = "Alliance",
+    guid = "Player-6412-02AA1B2A",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1266] = {
+    name = "Aintdruid",
+    faction = "Alliance",
+    guid = "Player-6112-02EC1639",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1267] = {
+    name = "Jebendruid",
+    faction = "Alliance",
+    guid = "Player-6412-0329AF40",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1268] = {
+    name = "Pastafizol",
+    faction = "Alliance",
+    guid = "Player-6412-032740E2",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1465828772174364844",
+},
+
+[1269] = {
+    name = "Ticked",
+    faction = "Alliance",
+    guid = "Player-6412-0335945A",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1465835474894455030",
+},
+
+[1270] = {
+    name = "Pikaboogirl",
+    faction = "Alliance",
+    guid = "Player-6412-033B19AD",
+    description = "Ninja, Scam, SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1466485887423479974",
+},
+
+[1271] = {
+    name = "Kellyone",
+    faction = "Alliance",
+    guid = "Player-6412-031EC247",
+    description = "Griefing, Harassment",
+    url = "https://discord.com/channels/1306327491769798708/1466550740066504716",
+},
+
+[1272] = {
+    name = "Libellchen",
+    faction = "Alliance",
+    guid = "Player-6412-02D75701",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1466500008952987740",
 },
 }
 
