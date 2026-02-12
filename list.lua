@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 1293
+-- unique characters: 1294
 
-t.version = "1.0.78"
+t.version = "1.0.79"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -2575,7 +2575,7 @@ t.case_table = {
 },
 
 [327] = {
-    name = "Tomikan",
+    name = "Maxì",
     faction = "Alliance",
     guid = "Player-6412-028BA0B4",
     description = "Scam",
@@ -3871,7 +3871,7 @@ t.case_table = {
 },
 
 [489] = {
-    name = "Abdii",
+    name = "Sneakbait",
     faction = "Horde",
     guid = "Player-6412-02D2D301",
     description = "Scam, SR Tampering",
@@ -3911,7 +3911,7 @@ t.case_table = {
 },
 
 [494] = {
-    name = "Bookseer",
+    name = "Retromage",
     faction = "Horde",
     guid = "Player-6412-02A20E21",
     description = "Harassment, Griefing, Other",
@@ -4127,7 +4127,7 @@ t.case_table = {
 },
 
 [521] = {
-    name = "Druidyx",
+    name = "Druidnator",
     faction = "Horde",
     guid = "Player-6412-028928C0",
     description = "Ninja, Scam, SR Tampering",
@@ -4335,7 +4335,7 @@ t.case_table = {
 },
 
 [547] = {
-    name = "Aphokyroz",
+    name = "Bà",
     faction = "Horde",
     guid = "Player-6412-028B17B1",
     description = "Griefing",
@@ -7383,7 +7383,7 @@ t.case_table = {
 },
 
 [928] = {
-    name = "Rháena",
+    name = "Baitrage",
     faction = "Horde",
     guid = "Player-6412-02F0C43D",
     description = "Ninja, Repeat Offender",
@@ -7407,7 +7407,7 @@ t.case_table = {
 },
 
 [931] = {
-    name = "Catsith",
+    name = "Booksusi",
     faction = "Horde",
     guid = "Player-6412-02B3F5CD",
     description = "Ninja, Repeat Offender",
@@ -8239,7 +8239,7 @@ t.case_table = {
 },
 
 [1035] = {
-    name = "Marttiini",
+    name = "Muilukeisari",
     faction = "Horde",
     guid = "Player-6412-02F83FF1",
     description = "Ninja, Scam, Harassment, Repeat Offender",
@@ -8847,7 +8847,7 @@ t.case_table = {
 },
 
 [1111] = {
-    name = "Doghugger",
+    name = "Toxichunt",
     faction = "Alliance",
     guid = "Player-6412-031A57CD",
     description = "Ninja, Scam",
@@ -9351,7 +9351,7 @@ t.case_table = {
 },
 
 [1174] = {
-    name = "Raihis",
+    name = "Zultare",
     faction = "Horde",
     guid = "Player-6412-03176159",
     description = "SR Tampering, Harassment",
@@ -9391,7 +9391,7 @@ t.case_table = {
 },
 
 [1179] = {
-    name = "Klícker",
+    name = "Klicker",
     faction = "Horde",
     guid = "Player-6412-03180A77",
     description = "Ninja",
@@ -9511,7 +9511,7 @@ t.case_table = {
 },
 
 [1194] = {
-    name = "Auryx",
+    name = "Aetrin",
     faction = "Horde",
     guid = "Player-6412-0314D7DB",
     description = "Ninja, Scam",
@@ -9527,7 +9527,7 @@ t.case_table = {
 },
 
 [1196] = {
-    name = "Littlebarbie",
+    name = "Bestpvp",
     faction = "Alliance",
     guid = "Player-6412-033A80BA",
     description = "Ninja, Scam",
@@ -9975,7 +9975,7 @@ t.case_table = {
 },
 
 [1252] = {
-    name = "Defcap",
+    name = "Hitcap",
     faction = "Alliance",
     guid = "Player-6412-02AEE951",
     description = "Ninja, Scam, Griefing",
@@ -10348,6 +10348,14 @@ t.case_table = {
     guid = "Player-6412-03206ADD",
     description = "Ninja, Scam",
     url = "https://discord.com/channels/1306327491769798708/1469064323568500808",
+},
+
+[1299] = {
+    name = "Seekerstone",
+    faction = "Alliance",
+    guid = "Player-6412-033383EC",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1468367816146288800",
 },
 }
 
