@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 1294
+-- unique characters: 1312
 
-t.version = "1.0.79"
+t.version = "1.0.80"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -10356,6 +10356,150 @@ t.case_table = {
     guid = "Player-6412-033383EC",
     description = "Ninja, Scam",
     url = "https://discord.com/channels/1306327491769798708/1468367816146288800",
+},
+
+[1300] = {
+    name = "Mickey",
+    faction = "Horde",
+    guid = "Player-6412-028903AB",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1471613638484689044",
+},
+
+[1301] = {
+    name = "Karr",
+    faction = "Horde",
+    guid = "Player-6412-028B180C",
+    description = "Griefing, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1471811795948671049",
+},
+
+[1302] = {
+    name = "Digious",
+    faction = "Horde",
+    guid = "Player-6412-03474F19",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1471878520958484572",
+},
+
+[1303] = {
+    name = "Kishidazxc",
+    faction = "Horde",
+    guid = "Player-6412-03466147",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1471878520958484572",
+},
+
+[1304] = {
+    name = "Pipisya",
+    faction = "Horde",
+    guid = "Player-6412-031767B0",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1471878520958484572",
+},
+
+[1305] = {
+    name = "Tâdârønne",
+    faction = "Horde",
+    guid = "Player-6412-02BE05DD",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1471291345808261120",
+},
+
+[1306] = {
+    name = "Swèét",
+    faction = "Horde",
+    guid = "Player-6412-0332E6CA",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1471822148955017306",
+},
+
+[1307] = {
+    name = "Epagärin",
+    faction = "Alliance",
+    guid = "Player-6412-02961FE6",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1471927360650739875",
+},
+
+[1308] = {
+    name = "Keepitshort",
+    faction = "Alliance",
+    guid = "Player-6412-034493CF",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1470991754286207138",
+},
+
+[1309] = {
+    name = "Hajmamadd",
+    faction = "Alliance",
+    guid = "Player-6412-03131621",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1471500714097508414",
+},
+
+[1310] = {
+    name = "Königabu",
+    faction = "Horde",
+    guid = "Player-6412-03194CF7",
+    description = "Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1471530975468060744",
+},
+
+[1311] = {
+    name = "Myaigi",
+    faction = "Alliance",
+    guid = "Player-6412-03347B7F",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1471987749606260769",
+},
+
+[1312] = {
+    name = "Beccý",
+    faction = "Alliance",
+    guid = "Player-6412-03389C1F",
+    description = "Ninja, Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1472011237155143871",
+},
+
+[1313] = {
+    name = "Linefive",
+    faction = "Horde",
+    guid = "Player-6412-033EA66D",
+    description = "Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1472322229680472095",
+},
+
+[1314] = {
+    name = "Yeppersw",
+    faction = "Horde",
+    guid = "Player-6412-02C3FBB1",
+    description = "Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1472322229680472095",
+},
+
+[1315] = {
+    name = "Màzette",
+    faction = "Horde",
+    guid = "Player-6412-02DD609C",
+    description = "Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1472322229680472095",
+},
+
+[1316] = {
+    name = "Nanakhunt",
+    faction = "Horde",
+    guid = "Player-6412-032F5A61",
+    description = "Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1472322229680472095",
+},
+
+[1317] = {
+    name = "Chaøss",
+    faction = "Horde",
+    guid = "Player-6412-0336FA36",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1472644781900300289",
 },
 }
 
