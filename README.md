@@ -1,5 +1,4 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Spine-Scambuster/Scambuster-Spineshatter/total?style=for-the-badge)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Spine-Scambuster/Scambuster-Spineshatter/total?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/Spine-Scambuster/Scambuster-Spineshatter?style=for-the-badge)
 [![Latest Release](https://img.shields.io/github/v/release/Spine-Scambuster/Scambuster-Spineshatter?style=for-the-badge)](https://github.com/Spine-Scambuster/Scambuster-Spineshatter/releases)
 [![Discord](https://img.shields.io/badge/Discord-Join-blue?logo=discord&style=for-the-badge)](https://discord.gg/82FMGTWG9j)
