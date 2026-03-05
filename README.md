@@ -7,7 +7,7 @@
 
 # Scambuster - Spineshatter EU
 
-We utilize the Scambuster addon framework to compile and distribute our list of identified offenders using publicly available data from the [Spineshatter EU PvP](https://discord.gg/spineshatter) community. This addon is specifically designed to work seamlessly with [Scambuster](https://github.com/hypernormalisation/Scambuster) addon framework. If you wish to receive in-game alerts upon joining a PUG, please follow the steps outlined below.
+We utilize the Scambuster addon framework to compile and distribute our list of identified offenders using publicly available data from the **[Spineshatter EU PvP](https://discord.gg/spineshatter)** community. This addon is specifically designed to work seamlessly with **[Scambuster](https://github.com/hypernormalisation/Scambuster)** addon framework. If you wish to receive in-game alerts upon joining a PUG, please follow the steps outlined below.
 
 **Setup:**
 1. Download and run the **[Scambuster Anniversary Updater](https://github.com/Spine-Scambuster/Scambuster-Anniversary-Updater/releases)**.
