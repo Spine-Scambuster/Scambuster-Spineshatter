@@ -9,18 +9,17 @@
 
 We utilize the Scambuster addon framework to compile and distribute our list of identified offenders using publicly available data from the [Spineshatter EU PvP](https://discord.gg/spineshatter) community. This addon is specifically designed to work seamlessly with [Scambuster](https://github.com/hypernormalisation/Scambuster) addon framework. If you wish to receive in-game alerts upon joining a PUG, please follow the steps outlined below.
 
-**Setup with automatic updates:**
-1. Download the **[WowUp v2.22.1-beta.2 CF Addon Client](https://github.com/WowUp/WowUp.CF/releases/download/v2.22.1-beta.2/WowUp-CF-Setup-2.22.1-beta.2.exe)** 
-2. Go to the **Get Addons** tab.
-3. Click on the **Install from URL** button.
-4. **Copy & Paste** both addon GitHub URLs:
-```python
-https://github.com/hypernormalisation/Scambuster
-```
-```python
-https://github.com/Spine-Scambuster/Scambuster-Spineshatter
-```
-5. Go to the **My Addons** tab and set both to **Auto Update**.
+**Setup:**
+1. Download and run the **[Scambuster Anniversary Updater](https://github.com/Spine-Scambuster/Scambuster-Anniversary-Updater/releases)**.
+2. In the updater:
+   - Select your WoW Anniversary installation folder.
+   - Install or update:
+     - **Scambuster (framework)**
+     - **Scambuster–Spineshatter**
+3. The updater will:
+   - Download the latest GitHub releases.
+   - Install them into your `_anniversary_/Interface/AddOns` folder.
+   - Remember your WoW path and, whenever you run it and click Update, check for and install the latest versions of both addons.
 
 # Commands
 ```/sb```  Opens the Scambuster interface.
