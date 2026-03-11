@@ -23,3 +23,32 @@ We utilize the Scambuster addon framework to compile and distribute our list of 
 
 # Commands
 ```/sb```  Opens the Scambuster interface.
+
+⚠️ Blacklist Addon – Manual Installation
+If you cannot use an addon manager or prefer manual installation, follow the steps below.
+
+# Manual install from GitHub
+
+Scambuster framework:
+- https://github.com/hypernormalisation/Scambuster/releases/tag/0.1.8
+
+Download: `Scambuster-0.1.8.zip`
+
+Blacklist data (Spineshatter):
+- https://github.com/Spine-Scambuster/Scambuster-Spineshatter/releases/
+
+Download: `Scambuster-Spineshatter-1.0.85-classic.zip` (or newer if available)
+
+### IMPORTANT:
+After unzipping, open the folders and copy ONLY the addon folders inside:
+
+- Scambuster-0.1.8\ `Scambuster`
+- Scambuster-Spineshatter-1.0.74-classic\ `Scambuster-Spineshatter`
+
+Copy both into:
+- `World of Warcraft\_anniversary_\Interface\AddOns`
+
+Restart WoW after copying.
+
+NOTE:
+When a new version is released, download the new ZIP and replace the old addon folders in your AddOns directory.
