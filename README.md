@@ -41,7 +41,7 @@ Download: `Scambuster-Spineshatter-1.0.85-classic.zip` (or newer if available)
 After unzipping, open the folders and copy ONLY the addon folders inside:
 
 - Scambuster-0.1.8\ `Scambuster`
-- Scambuster-Spineshatter-1.0.74-classic\ `Scambuster-Spineshatter`
+- Scambuster-Spineshatter-1.0.85-classic\ `Scambuster-Spineshatter`
 
 Copy both into:
 - `World of Warcraft\_anniversary_\Interface\AddOns`
