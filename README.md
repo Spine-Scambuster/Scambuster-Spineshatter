@@ -24,10 +24,8 @@ We utilize the Scambuster addon framework to compile and distribute our list of 
 # Commands
 ```/sb```  Opens the Scambuster interface.
 
-⚠️ Blacklist Addon – Manual Installation
-If you cannot use an addon manager or prefer manual installation, follow the steps below.
-
 # Manual install from GitHub
+If you cannot use an addon manager or prefer manual installation, follow the steps below.
 
 Scambuster framework:
 - https://github.com/hypernormalisation/Scambuster/releases/tag/0.1.8
