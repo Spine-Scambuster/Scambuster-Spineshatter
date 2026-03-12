@@ -1,7 +1,7 @@
 local f = CreateFrame("Frame")
 
 -- ===== SavedVariables =====
--- # SavedVariables: TradeGuardDB
+-- SavedVariables: TradeGuardDB
 TradeGuardDB = TradeGuardDB or {}
 TradeGuardDB.enabled = TradeGuardDB.enabled == nil and true or TradeGuardDB.enabled
 
@@ -324,3 +324,4 @@ f:SetScript("OnEvent", function(self,event,...)
     end
 
 end)
+
