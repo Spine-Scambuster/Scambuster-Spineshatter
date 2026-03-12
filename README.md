@@ -59,7 +59,7 @@ Features:
 - First popup – Shows detailed info about the trade partner (name, level, class, guild, group/raid).
 - Warning popup – Alerts if trade items or gold change unexpectedly.
 - Toggleable via commands: `/tradeguard on|off`
-- Automatically saves your preference in TradeGuardDB.
+- Your preference is saved in TradeGuardDB inside the `Scambuster-Spineshatter.lua` SavedVariables file.
 
 Commands:
 - `/tradeguard on` – Enables TradeGuard protection.
