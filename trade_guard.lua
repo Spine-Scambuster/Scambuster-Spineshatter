@@ -1,7 +1,7 @@
 local f = CreateFrame("Frame")
 
 -- ===== SavedVariables =====
--- Make sure your TOC has: ## SavedVariables: TradeGuardDB
+-- # SavedVariables: TradeGuardDB
 TradeGuardDB = TradeGuardDB or {}
 TradeGuardDB.enabled = TradeGuardDB.enabled == nil and true or TradeGuardDB.enabled
 
@@ -322,4 +322,5 @@ f:SetScript("OnEvent", function(self,event,...)
         ResetTradeState()
         print("|cffff4444[TradeGuard]|r Trade closed. All states reset.")
     end
+
 end)
