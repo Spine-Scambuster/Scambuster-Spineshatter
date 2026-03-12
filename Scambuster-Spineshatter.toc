@@ -5,10 +5,11 @@
 ## Version: 1.0.86
 ## DefaultState: enabled
 ## Dependencies: Scambuster
+## SavedVariables: TradeGuardDB
 
 LibStub.lua
 settings.lua
 list.lua
 core.lua
 WarningUnknownLinkType.lua
-
+trade_guard.lua
