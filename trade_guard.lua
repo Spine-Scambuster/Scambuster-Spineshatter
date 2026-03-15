@@ -106,8 +106,17 @@ local function ShowFirstPopup()
     local unit = GetUnit()
     if not unit then return end
 
+    local level = UnitLevel(unit) or 0
+
+    -- Skip popup if target is level 70
+    if level == 70 then
+        firstPopupConfirmed = true
+        playerAccepted = true
+        print("|cffff4444[TradeGuard]|r Target is level 70. Initial verification popup skipped.")
+        return
+    end
+
     local name = ColorName(unit)
-    local level = UnitLevel(unit) or "?"
     local race = UnitRace(unit) or "Unknown"
     local classLocalized = select(1, UnitClass(unit)) or "Unknown"
     local guild = GetGuildInfo(unit) or "No Guild"
@@ -153,6 +162,7 @@ local function ShowFirstPopup()
 
     StaticPopup_Show("TRADE_GUARD_FIRST")
 end
+
 
 -- Warning popup
 local function ShowWarningPopupStatic()
@@ -322,6 +332,4 @@ f:SetScript("OnEvent", function(self,event,...)
         ResetTradeState()
         print("|cffff4444[TradeGuard]|r Trade closed. All states reset.")
     end
-
 end)
-
