@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 1457
+-- unique characters: 1460
 
-t.version = "1.0.87"
+t.version = "1.0.88"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -11559,7 +11559,7 @@ t.case_table = {
 },
 
 [1450] = {
-    name = "Afufu",
+    name = "Womblew",
     faction = "Alliance",
     guid = "Player-6412-034E5DAB",
     description = "Scam",
@@ -11626,7 +11626,7 @@ t.case_table = {
     name = "Fartamerica",
     faction = "Horde",
     guid = "Player-6412-03399121",
-    description = "Ninja",
+    description = "Ninja, Repeat Offender, Scam",
     url = "https://discord.com/channels/1306327491769798708/1479933650073288817",
 },
 
@@ -11660,6 +11660,30 @@ t.case_table = {
     guid = "Player-6412-03240380",
     description = "Ninja, Scam",
     url = "https://discord.com/channels/1306327491769798708/1481433600455868487",
+},
+
+[1463] = {
+    name = "Doshinba",
+    faction = "Horde",
+    guid = "Player-6412-03307DD7",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1482068969954480188",
+},
+
+[1464] = {
+    name = "Grieferinho",
+    faction = "Alliance",
+    guid = "Player-6412-02DB3F61",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1481003506927407404",
+},
+
+[1465] = {
+    name = "Rxz",
+    faction = "Horde",
+    guid = "Player-6412-035118B2",
+    description = "Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1481585461989347392",
 },
 }
 
