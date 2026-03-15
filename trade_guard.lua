@@ -163,7 +163,6 @@ local function ShowFirstPopup()
     StaticPopup_Show("TRADE_GUARD_FIRST")
 end
 
-
 -- Warning popup
 local function ShowWarningPopupStatic()
     if not TradeGuardDB.enabled or #pendingChanges == 0 then return end
