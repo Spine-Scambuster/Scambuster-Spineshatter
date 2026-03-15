@@ -57,6 +57,7 @@ TradeGuard is an optional feature included with Scambuster–Spineshatter to pro
 
 Features:
 - First popup – Shows detailed info about the trade partner (name, level, class, guild, group/raid).
+  - Note: If the trade target is level 70, this popup is skipped automatically.
 - Warning popup – Alerts if trade items or gold change unexpectedly.
 - Toggleable via commands: `/tradeguard on|off`
 - Your preference is saved in TradeGuardDB inside the `Scambuster-Spineshatter.lua` SavedVariables file.
