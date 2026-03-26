@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 1514
+-- unique characters: 1531
 
-t.version = "1.0.90"
+t.version = "1.0.91"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -10495,7 +10495,7 @@ t.case_table = {
 },
 
 [1317] = {
-    name = "Vlãd",
+    name = "Vlhad",
     faction = "Horde",
     guid = "Player-6412-0311D0D0",
     description = "Ninja, Scam",
@@ -11935,7 +11935,7 @@ t.case_table = {
 },
 
 [1499] = {
-    name = "Kyà",
+    name = "Youngma",
     faction = "Horde",
     guid = "Player-6412-0343CFB6",
     description = "Ninja, Scam, Griefing",
@@ -12116,6 +12116,142 @@ t.case_table = {
     guid = "Player-6412-03661C78",
     description = "Scam, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1485020853539180808",
+},
+
+[1522] = {
+    name = "Tupakevis",
+    faction = "Horde",
+    guid = "Player-6412-035283C3",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1485321628010414150",
+},
+
+[1523] = {
+    name = "Maxímo",
+    faction = "Alliance",
+    guid = "Player-6412-02BC9E69",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1485169625980473344",
+},
+
+[1525] = {
+    name = "Trickstr",
+    faction = "Horde",
+    guid = "Player-6412-028A6BB7",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1485328640261492756",
+},
+
+[1526] = {
+    name = "Butøx",
+    faction = "Horde",
+    guid = "Player-6412-02E12916",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1485398349875118201",
+},
+
+[1527] = {
+    name = "Usøpp",
+    faction = "Horde",
+    guid = "Player-6412-032685CE",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1485339130555531295",
+},
+
+[1528] = {
+    name = "Abraquadabra",
+    faction = "Horde",
+    guid = "Player-6412-0362E0DB",
+    description = "Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1485728705685749850",
+},
+
+[1529] = {
+    name = "Heiligschwul",
+    faction = "Alliance",
+    guid = "Player-6412-034863D9",
+    description = "Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1485729041079205938",
+},
+
+[1530] = {
+    name = "Baboonlordx",
+    faction = "Horde",
+    guid = "Player-6412-0290EE07",
+    description = "Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1484930422113697873",
+},
+
+[1531] = {
+    name = "Skayo",
+    faction = "Horde",
+    guid = "Player-6412-02E1FE3F",
+    description = "Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1484930422113697873",
+},
+
+[1532] = {
+    name = "Assbonker",
+    faction = "Horde",
+    guid = "Player-6412-0292A594",
+    description = "Scam, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1484930422113697873",
+},
+
+[1533] = {
+    name = "Nordkap",
+    faction = "Horde",
+    guid = "Player-6412-03279F87",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1486092620576063558",
+},
+
+[1534] = {
+    name = "Maínhealer",
+    faction = "Horde",
+    guid = "Player-6412-035D158D",
+    description = "Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1486033191599996948",
+},
+
+[1535] = {
+    name = "Nuelfild",
+    faction = "Alliance",
+    guid = "Player-6412-02F010BE",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1486355692897173545",
+},
+
+[1536] = {
+    name = "Nív",
+    faction = "Alliance",
+    guid = "Player-6412-033E4687",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1486355692897173545",
+},
+
+[1537] = {
+    name = "Sousdoré",
+    faction = "Alliance",
+    guid = "Player-6412-0365B9EE",
+    description = "Ninja, SR Tampering",
+    url = "https://discord.com/channels/1306327491769798708/1486179845481304126",
+},
+
+[1538] = {
+    name = "Greyparsing",
+    faction = "Alliance",
+    guid = "Player-6412-02E7B6A3",
+    description = "Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1485359417221447933",
+},
+
+[1539] = {
+    name = "Ruhiro",
+    faction = "Alliance",
+    guid = "Player-6412-0289BD00",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1485341148376469669",
 },
 }
 
