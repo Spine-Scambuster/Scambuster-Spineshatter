@@ -12,6 +12,8 @@ This PR adds the data pipeline and guild list for Spineshatter. The Scambuster P
 
 Wires up the Spineshatter provider to support guild-level blacklisting using the new `guild_data` field introduced in the companion Scambuster framework PR. Adds `t.guild_table` to `list.lua` as the single place where guild blacklist entries are maintained and distributed to all users via addon updates.
 
+When a blacklisted guild member is moused over, targeted, traded with, or joins the player's group, a warning fires both in the tooltip and as a chat message.
+
 ---
 
 ## What Changed
@@ -27,7 +29,7 @@ local provider_table = {
     description = t.my_description,
     url         = t.my_url,
     realm_data  = { [t.my_realm] = t.case_table },
-    guild_data  = { [t.my_realm] = t.guild_table },  -- new
+    guild_data  = { [t.my_realm] = t.guild_table },
 }
 ```
 
@@ -39,7 +41,7 @@ Added `t.guild_table` near the top of the file, between `t.version` and `t.case_
 
 ### `Scambuster-Spineshatter.toc`
 
-Removed `GuildGuardDB` from `SavedVariables` and removed `guild_guard.lua` from the load order. Guild blacklisting is now handled entirely by the Scambuster framework using the existing `ScambusterDB` SavedVariable. The `guild_guard.lua` file should also be deleted from the repo.
+Removed `GuildGuardDB` from `SavedVariables`. Guild blacklisting is now handled entirely by the Scambuster framework using the existing `ScambusterDB` SavedVariable.
 
 ---
 
@@ -81,7 +83,7 @@ To remove a guild, delete its entry from `t.guild_table` and push. The removal t
 
 ## How to Add a Blacklisted Guild In-Game (for individual players)
 
-Players can also maintain a personal guild blacklist at runtime using the `/sbguild` command provided by the Scambuster framework. Personal entries only affect that player's own client and are not distributed to other users.
+Players can maintain a personal guild blacklist at runtime using the `/sbguild` command. Personal entries only affect that player's own client and are not distributed to other users.
 
 ```
 /sbguild add <GuildName> | <Reason>    Add a guild
@@ -102,9 +104,3 @@ Examples:
 ## Realm Scoping
 
 Guild entries in `t.guild_table` are keyed under `t.my_realm` in the provider table. The Scambuster framework only loads entries for the realm the player is currently logged into. A guild blacklisted here on Spineshatter will never trigger a warning for a player on any other realm, even if a guild with the same name exists there.
-
----
-
-## Files to Delete
-
-`guild_guard.lua` — this file was a previous draft implementation and is fully superseded by this approach. It should be deleted from the repo.
