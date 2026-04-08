@@ -64,14 +64,14 @@ Multiple guilds:
 ```lua
 t.guild_table = {
 [1] = {
-    guild = "Blablabla",
+    guild = "Scammy Guild",
     description = "Guild leadership organised mass trade scam.",
-    url = "https://discord.com/channels/1306327491769798708/1344994710212706374",
+    url = "https://discord.com/channels/your-evidence-link-here",
 },
 [2] = {
     guild = "Another Guild",
     description = "Repeat ninja looters, multiple SR incidents.",
-    url = "https://discord.com/channels/1306327491769798708/1444454521832083566",
+    url = "https://discord.com/channels/your-evidence-link-here",
 },
 }
 ```
@@ -97,8 +97,8 @@ Players can maintain a personal guild blacklist at runtime using the `/sbguild` 
 
 Examples:
 ```
-/sbguild add Blablabla | Mass scam, ninja looted SR run
-/sbguild remove Blablabla
+/sbguild add Scammy Guild | Mass scam, ninja looted SR run
+/sbguild remove Scammy Guild
 /sbguild list
 ```
 
