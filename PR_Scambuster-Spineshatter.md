@@ -47,14 +47,15 @@ Removed `GuildGuardDB` from `SavedVariables`. Guild blacklisting is now handled 
 
 ## How to Add a Blacklisted Guild (for list maintainers)
 
-Open `list.lua` and find the `t.guild_table` block near the top of the file. Add an entry:
+Open `list.lua` and find the `t.guild_table` block near the top of the file. Add a new numbered entry:
 
 ```lua
 t.guild_table = {
-    ["GuildNameHere"] = {
-        reason = "Brief description of why this guild is blacklisted.",
-        added  = "YYYY-MM-DD",
-    },
+[1] = {
+    guild = "GuildNameHere",
+    description = "Brief description of why this guild is blacklisted.",
+    url = "https://discord.com/channels/your-evidence-link-here",
+},
 }
 ```
 
@@ -62,20 +63,22 @@ Multiple guilds:
 
 ```lua
 t.guild_table = {
-    ["Blablabla"] = {
-        reason = "Guild leadership organised mass trade scam.",
-        added  = "2025-04-08",
-    },
-    ["Another Guild"] = {
-        reason = "Repeat ninja looters, multiple SR incidents.",
-        added  = "2025-04-08",
-    },
+[1] = {
+    guild = "Blablabla",
+    description = "Guild leadership organised mass trade scam.",
+    url = "https://discord.com/channels/1306327491769798708/1344994710212706374",
+},
+[2] = {
+    guild = "Another Guild",
+    description = "Repeat ninja looters, multiple SR incidents.",
+    url = "https://discord.com/channels/1306327491769798708/1444454521832083566",
+},
 }
 ```
 
 Commit and push. Users receive the updated guild list on their next addon update with no further action required.
 
-To remove a guild, delete its entry from `t.guild_table` and push. The removal takes effect for all users on next update with no stale data left in their SavedVariables.
+To remove a guild, delete its entry block and push. The removal takes effect for all users on next update with no stale data left in their SavedVariables.
 
 **Guild name matching is case and space sensitive. Always use the exact in-game capitalisation.**
 
@@ -86,10 +89,10 @@ To remove a guild, delete its entry from `t.guild_table` and push. The removal t
 Players can maintain a personal guild blacklist at runtime using the `/sbguild` command. Personal entries only affect that player's own client and are not distributed to other users.
 
 ```
-/sbguild add <GuildName> | <Reason>    Add a guild
-/sbguild remove <GuildName>            Remove a guild
-/sbguild list                          Show all blacklisted guilds
-/sbguild on / off                      Toggle guild blacklisting
+/sbguild add <GuildName> | <Description>    Add a guild
+/sbguild remove <GuildName>                 Remove a guild
+/sbguild list                               Show all blacklisted guilds
+/sbguild on / off                           Toggle guild blacklisting
 ```
 
 Examples:
