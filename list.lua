@@ -19,10 +19,11 @@ t.version = "1.0.94"
 --=========================================================================================
 t.guild_table = {
 [1] = {
-    guild = "TESTING GUILD",
+    guild = "Huddel",
     description = "Testing guild listing",
-    url = "https://discord.com/",
+    url = "https://discord.com/channels/1306327491769798708/1344994710212706374",
 },
+    
 [2] = {
     guild = "HESOYAM",
     description = "Scammer Guild",
