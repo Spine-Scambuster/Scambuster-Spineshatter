@@ -19,9 +19,9 @@ t.version = "1.0.94"
 --=========================================================================================
 t.guild_table = {
 [1] = {
-    guild = "Huddel",
+    guild = "Testing Guild",
     description = "Testing guild listing",
-    url = "https://discord.com/channels/1306327491769798708/1344994710212706374",
+    url = "https://discord.com/channels/your-evidence-link-here",
 },
     
 [2] = {
