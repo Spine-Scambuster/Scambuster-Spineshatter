@@ -5,6 +5,32 @@ local _, t = ...
 -- unique characters: 1581
 
 t.version = "1.0.94"
+
+--=========================================================================================
+-- Guild Blacklist Table
+-- Add guilds that should trigger a warning for ALL their members on this realm.
+-- Format:
+--   ["Guild Name"] = {
+--       reason = "Short description of why the guild is blacklisted.",
+--       added  = "YYYY-MM-DD",
+--   },
+-- Realm scoping is enforced automatically by the framework - entries here will
+-- only activate on the realm defined in settings.lua (t.my_realm = "Spineshatter").
+--=========================================================================================
+t.guild_table = {
+[1] = {
+    guild = "Testing Guild",
+    description = "Testing guild listing",
+    url = "https://discord.com/channels/your-evidence-link-here",
+},
+    
+[2] = {
+    guild = "HESOYAM",
+    description = "Scammer Guild",
+    url = "https://discord.com/channels/1306327491769798708/1444454521832083566/1445581620479397942",
+},
+}
+
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -12654,4 +12680,3 @@ t.case_table = {
     url = "https://discord.com/channels/1306327491769798708/1490839037601382470",
 },
 }
-

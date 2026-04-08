@@ -9,7 +9,10 @@ local provider_table = {
     url = t.my_url,
     realm_data = {
         [t.my_realm] = t.case_table
-    }
+    },
+    guild_data = {
+        [t.my_realm] = t.guild_table
+    },
 }
 
 -- Register the list with cutpurse.
