@@ -18,10 +18,16 @@ t.version = "1.0.94"
 -- only activate on the realm defined in settings.lua (t.my_realm = "Spineshatter").
 --=========================================================================================
 t.guild_table = {
-    ["HESOYAM"] = {
-        reason = "Scammer Guild Testing Purposes",
-        added  = "2026-04-08",
-    },
+[1] = {
+    guild = "TESTING GUILD",
+    description = "Testing guild listing",
+    url = "https://discord.com/",
+},
+[2] = {
+    guild = "HESOYAM",
+    description = "Scammer Guild",
+    url = "https://discord.com/channels/1306327491769798708/1444454521832083566/1445581620479397942",
+},
 }
 
 t.case_table = {
