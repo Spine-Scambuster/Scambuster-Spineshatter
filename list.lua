@@ -2,9 +2,9 @@ local _, t = ...
 
 -- Spineshatter Discord Blocklist Table
 
--- unique characters: 1647
+-- unique characters: 1697
 
-t.version = "1.0.97"
+t.version = "1.0.98"
 t.case_table = {
 [1] = {
     name = "Aan",
@@ -666,7 +666,7 @@ t.case_table = {
     name = "Mazkn",
     faction = "Horde",
     guid = "Player-6412-02959F1E",
-    description = "Scam, Repeat Offender",
+    description = "Scam, Repeat Offender, Harassment",
     url = "https://discord.com/channels/1306327491769798708/1338104973052874762",
 },
 
@@ -12210,7 +12210,7 @@ t.case_table = {
     name = "Abualhayt",
     faction = "Horde",
     guid = "Player-6412-031E3313",
-    description = "Ninja, Scam, SR Tampering",
+    description = "Ninja, SR Tampering, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1486737486494433360",
 },
 
@@ -12218,7 +12218,7 @@ t.case_table = {
     name = "Belloubet",
     faction = "Horde",
     guid = "Player-6412-032D7E0B",
-    description = "Ninja, Scam, SR Tampering",
+    description = "Ninja, SR Tampering, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1486737486494433360",
 },
 
@@ -12226,7 +12226,7 @@ t.case_table = {
     name = "Palouftank",
     faction = "Horde",
     guid = "Player-6412-034076A5",
-    description = "Ninja, Scam, SR Tampering",
+    description = "Ninja, SR Tampering, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1486737486494433360",
 },
 
@@ -12234,7 +12234,7 @@ t.case_table = {
     name = "Foreveryoung",
     faction = "Horde",
     guid = "Player-6412-033E398A",
-    description = "Ninja, Scam, SR Tampering",
+    description = "Ninja, SR Tampering, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1486763268012773406",
 },
 
@@ -12242,7 +12242,7 @@ t.case_table = {
     name = "Ratherlie",
     faction = "Horde",
     guid = "Player-6412-031D42F2",
-    description = "Ninja, Scam, SR Tampering",
+    description = "Ninja, Scam, SR Tampering, Repeat Offender",
     url = "https://discord.com/channels/1306327491769798708/1486763268012773406",
 },
 
@@ -13103,7 +13103,7 @@ t.case_table = {
 },
 
 [1646] = {
-    name = "Knepperen",
+    name = "Fissehullet",
     faction = "Alliance",
     guid = "Player-6412-03327F68",
     description = "Ninja, SR Tampering",
@@ -13135,7 +13135,7 @@ t.case_table = {
 },
 
 [1650] = {
-    name = "Sunwêl",
+    name = "Grundyý",
     faction = "Horde",
     guid = "Player-6412-035135D1",
     description = "Ninja, Scam",
@@ -13180,6 +13180,406 @@ t.case_table = {
     guid = "Player-6412-0297B012",
     description = "Griefing, Harassment",
     url = "https://discord.com/channels/1306327491769798708/1495832743127417116",
+},
+
+[1656] = {
+    name = "Meelah",
+    faction = "Horde",
+    guid = "Player-6412-0320AC85",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1493990844187807854",
+},
+
+[1657] = {
+    name = "Tupuducu",
+    faction = "Alliance",
+    guid = "Player-6412-02B3BB7F",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1494378141341192252",
+},
+
+[1658] = {
+    name = "kitanelock",
+    faction = "Horde",
+    guid = "Player-6412-032C7A8F",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1494400623796420709",
+},
+
+[1659] = {
+    name = "Fujimy",
+    faction = "Horde",
+    guid = "Player-6412-035339CA",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1495027735842652190",
+},
+
+[1660] = {
+    name = "Meldanen",
+    faction = "Horde",
+    guid = "Player-6412-034D35A6",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1495469356635652193",
+},
+
+[1661] = {
+    name = "Deshandor",
+    faction = "Horde",
+    guid = "Player-6412-034D1ADC",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1495469356635652193",
+},
+
+[1662] = {
+    name = "Deames",
+    faction = "Alliance",
+    guid = "Player-6412-031F18C2",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1495536833608810547",
+},
+
+[1663] = {
+    name = "Ency",
+    faction = "Alliance",
+    guid = "Player-6412-0337D21E",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1495761078427062415",
+},
+
+[1664] = {
+    name = "Gallumbo",
+    faction = "Alliance",
+    guid = "Player-6412-02F13D59",
+    description = "Ninja, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1495761078427062415",
+},
+
+[1665] = {
+    name = "Riplarenx",
+    faction = "Horde",
+    guid = "Player-6412-0332E26B",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1496184554602627134",
+},
+
+[1666] = {
+    name = "Minaeki",
+    faction = "Alliance",
+    guid = "Player-6412-031948A4",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1496247599458553987",
+},
+
+[1667] = {
+    name = "Prvrlnn",
+    faction = "Horde",
+    guid = "Player-6412-0365841C",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1496247599458553987",
+},
+
+[1668] = {
+    name = "Kenzaki",
+    faction = "Alliance",
+    guid = "Player-6412-03666ECA",
+    description = "Ninja, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1496486591219236924",
+},
+
+[1669] = {
+    name = "Rhailock",
+    faction = "Horde",
+    guid = "Player-6412-03699806",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1496574874666270752",
+},
+
+[1670] = {
+    name = "Bestrøgue",
+    faction = "Alliance",
+    guid = "Player-6412-036EFFD6",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1496926100289228952",
+},
+
+[1671] = {
+    name = "Frenschmeat",
+    faction = "Alliance",
+    guid = "Player-6412-0327ACA0",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1493572529271472199",
+},
+
+[1672] = {
+    name = "Fwfr",
+    faction = "Alliance",
+    guid = "Player-6412-036C3F8E",
+    description = "Scam, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1495794505964585252",
+},
+
+[1673] = {
+    name = "Milfxhunter",
+    faction = "Horde",
+    guid = "Player-6412-03424CFE",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1496313705871441980",
+},
+
+[1674] = {
+    name = "Anechk",
+    faction = "Horde",
+    guid = "Player-6412-03762E68",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1494664470285254726",
+},
+
+[1675] = {
+    name = "Kaeyraa",
+    faction = "Horde",
+    guid = "Player-6412-0372726B",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1495829961594900490",
+},
+
+[1676] = {
+    name = "Kaelvyr",
+    faction = "Horde",
+    guid = "Player-6412-0370B77D",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1495829961594900490",
+},
+
+[1677] = {
+    name = "Hippietank",
+    faction = "Alliance",
+    guid = "Player-6412-031A389D",
+    description = "Ninja, Griefing",
+    url = "https://discord.com/channels/1306327491769798708/1496646601190670437",
+},
+
+[1678] = {
+    name = "Pumpladin",
+    faction = "Horde",
+    guid = "Player-6412-03677C2B",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1496633292152115250",
+},
+
+[1679] = {
+    name = "Goonstomp",
+    faction = "Horde",
+    guid = "Player-6412-0362DC95",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1496633292152115250",
+},
+
+[1680] = {
+    name = "Heuteernst",
+    faction = "Horde",
+    guid = "Player-6412-03373BCB",
+    description = "Ninja, Scam, Other",
+    url = "https://discord.com/channels/1306327491769798708/1497321871757021346",
+},
+
+[1681] = {
+    name = "Greénd",
+    faction = "Horde",
+    guid = "Player-6412-031A64D5",
+    description = "Ninja, Scam, Other",
+    url = "https://discord.com/channels/1306327491769798708/1497321871757021346",
+},
+
+[1682] = {
+    name = "Persemage",
+    faction = "Horde",
+    guid = "Player-6412-0338BB88",
+    description = "Ninja, Scam, Other",
+    url = "https://discord.com/channels/1306327491769798708/1497321871757021346",
+},
+
+[1683] = {
+    name = "Nuter",
+    faction = "Horde",
+    guid = "Player-6412-0345D16F",
+    description = "Scam, Other",
+    url = "https://discord.com/channels/1306327491769798708/1496912014004588796",
+},
+
+[1684] = {
+    name = "Forwho",
+    faction = "Horde",
+    guid = "Player-6412-02FD4394",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1497022654421667850",
+},
+
+[1685] = {
+    name = "Becow",
+    faction = "Horde",
+    guid = "Player-6412-02E5B78E",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1497022654421667850",
+},
+
+[1686] = {
+    name = "Logichekäi",
+    faction = "Horde",
+    guid = "Player-6412-02DFEC3C",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1497378723811430410",
+},
+
+[1687] = {
+    name = "Subshunter",
+    faction = "Alliance",
+    guid = "Player-6412-036B7116",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1497947842839580752",
+},
+
+[1688] = {
+    name = "Bambougnoul",
+    faction = "Horde",
+    guid = "Player-6412-032D81A7",
+    description = "Ninja, SR Tampering, Repeat Offender",
+    url = "https://discord.com/channels/1306327491769798708/1498007944254459965",
+},
+
+[1689] = {
+    name = "Valerápepe",
+    faction = "Horde",
+    guid = "Player-6412-035C73A1",
+    description = "Ninja, Scam",
+    url = "https://discord.com/channels/1306327491769798708/1497576217606623253",
+},
+
+[1690] = {
+    name = "Núbby",
+    faction = "Horde",
+    guid = "Player-6412-03851E46",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1691] = {
+    name = "Ungeschöpf",
+    faction = "Alliance",
+    guid = "Player-6412-03263881",
+    description = "Scam",
+    url = "https://discord.com/channels/1306327491769798708/1497888259278377020",
+},
+
+[1692] = {
+    name = "Khýll",
+    faction = "Horde",
+    guid = "Player-6412-02CA29BD",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1693] = {
+    name = "Khylx",
+    faction = "Horde",
+    guid = "Player-6412-0336A3D7",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1694] = {
+    name = "Khyll",
+    faction = "Horde",
+    guid = "Player-6412-02AC547D",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1695] = {
+    name = "Khyl",
+    faction = "Horde",
+    guid = "Player-6412-028D4CBF",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1696] = {
+    name = "Khy",
+    faction = "Horde",
+    guid = "Player-6412-02D01A98",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1697] = {
+    name = "Caspr",
+    faction = "Horde",
+    guid = "Player-6412-02D01D1A",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1698] = {
+    name = "Casprlock",
+    faction = "Horde",
+    guid = "Player-6412-028C62D7",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1699] = {
+    name = "Casprx",
+    faction = "Horde",
+    guid = "Player-6412-035D6808",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1700] = {
+    name = "Cxpr",
+    faction = "Horde",
+    guid = "Player-6412-02BDFFD3",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1701] = {
+    name = "Cxspr",
+    faction = "Horde",
+    guid = "Player-6412-02A2CC4C",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1702] = {
+    name = "Bigshagger",
+    faction = "Horde",
+    guid = "Player-6412-0299BF1A",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1703] = {
+    name = "Shagadin",
+    faction = "Horde",
+    guid = "Player-6412-0334DE81",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1704] = {
+    name = "Shagnasty",
+    faction = "Horde",
+    guid = "Player-6412-028AB950",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
+},
+
+[1705] = {
+    name = "Yagon",
+    faction = "Horde",
+    guid = "Player-6412-02D2FC59",
+    description = "Ninja",
+    url = "https://discord.com/channels/1306327491769798708/1498377530908999752",
 },
 }
 
